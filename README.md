@@ -1,18 +1,166 @@
-# 💫 About Me:
-🌍  I'm based in India<br>✉️  You can contact me at pathakratnesh03@gmail.com<br>🧠  I'm learning Power BI, Advance Excel, Python, SQL<br>🤝  I'm open to collaborating on Interesting Projects
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:2d0b5a,100:0d0221&height=220&section=header&text=Ratnesh%20Pathak&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=M.Sc.%20IT%20%7C%20AI%2FML%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ratnesh.pathak.75098?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ratnesh_0318) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ratnesh-pathak-087466279) 
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="[VERIFY PUBLIC FIVERR PROFILE URL]"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/></a>
 
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RatneshPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RatneshPathak&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RatneshPathak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=RatneshPathak&icon=0&color=0)](https://visitcount.itsvg.in)
+<br>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+┌──────────────────────────────────────────────────────────┐
+│  $ whoami                                                 │
+├──────────────────────────────────────────────────────────┤
+│  name        : Ratnesh Pathak                             │
+│  education   : M.Sc. Information Technology (9.36 SGPA)   │
+│  role        : AI/ML Intern @ Alvin IT Solutions           │
+│  focus       : AI • Machine Learning • Data Analytics     │
+│  building    : Practical, verifiable AI/software projects │
+│  practicing  : Python • SQL • Power BI • Computer Vision  │
+│  exploring   : AI Agents • APIs • NLP                     │
+│  mindset     : Learn → Build → Share → Improve            │
+└──────────────────────────────────────────────────────────┘
+```
+
+## 👋 About Me
+
+I'm an M.Sc. IT graduate (9.36 SGPA, batch topper) currently working as an **AI/ML Intern at Alvin IT Solutions**, based in Mumbai. My work sits at the intersection of applied machine learning, data analytics, and full-stack development — I like taking a problem from research/idea to a working prototype.
+
+Alongside project work, I've published research (including financial sentiment analysis with NLP), practiced problem-solving through LeetCode, taken on freelance/client work, and stayed close to Mumbai's tech ecosystem by attending 200+ tech events and organizing/leading college tech initiatives.
+
+## 📊 Snapshot
+
+<div align="center">
+
+| 🎓 SGPA | 📖 Research Papers | 📚 Certifications | 🧩 LeetCode Badges |
+|:---:|:---:|:---:|:---:|
+| **9.36** | **3** | **110+** | **23** |
+
+| 🚀 Hackathons | 🌐 Tech Events Attended | 💼 LinkedIn Community |
+|:---:|:---:|:---:|
+| **2× Finalist** | **200+** | **12.1K+** |
+
+</div>
+
+> *Numbers above are as stated by Ratnesh — not independently verifiable via GitHub, so treat them as self-reported credentials rather than platform-verified stats.*
+
+## 🤖 AI / ML & Data Focus
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+Areas I actively work in: **Machine Learning**, **Computer Vision**, **NLP (sentiment analysis)**, **data analytics & dashboards**, and **AI-assisted / "vibe-coded" prototyping** — turning an idea into a working demo quickly, then hardening it.
+
+## 🚀 Featured Projects
+
+> Built from what's actually verifiable on [github.com/RatneshPathak](https://github.com/RatneshPathak). Projects referenced elsewhere (FinSentAI, a travel planner, a voting portal, PhishGuard, ContractGuard Pro) are **not currently visible on this GitHub account**, so I haven't built cards for them — `[VERIFY THIS]`: push them here (or share the repo URLs) and I'll add verified cards.
+
+| Project | What it does | Stack | GitHub |
+|---|---|---|---|
+| 🛡️ **crowd_safety_ai** | Real-time crowd risk detection — uses computer vision to analyze density and motion anomalies for public safety | Python, Computer Vision | [Repo](https://github.com/RatneshPathak/crowd_safety_ai) |
+| 📊 **Power-BI-dashboard** | Data analytics dashboard project | Power BI | [Repo](https://github.com/RatneshPathak/Power-BI-dashboard) |
+| 🐍 **Python-Practice** | Applied Python problem-solving / practice repo | Python | [Repo](https://github.com/RatneshPathak/Python-Practice) |
+| 📓 **IIT-BOMBAY-** | Notebook-based project work | Jupyter Notebook | [Repo](https://github.com/RatneshPathak/IIT-BOMBAY-) |
+| `[VERIFY THIS]` **FinSentAI** | Financial sentiment analysis SaaS (per your notes: Flask, SVM, VADER) | — | *not found on GitHub — add repo link* |
+| `[VERIFY THIS]` **ContractGuard Pro / PhishGuard / Travel Planner / Voting Portal** | — | — | *not found on GitHub — add repo links* |
+
+## 🛠️ Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**AI / ML & Data**
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+**Web / Tools**
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+*(Trimmed from the original wall — removed .NET, Adobe products, Raspberry Pi, and other entries not reflected in current repos, since they weakened the AI/ML positioning.)*
+
+## 🧩 Problem Solving
+
+<div align="center">
+
+**23 LeetCode Badges** — consistent coding practice alongside academic and project work.
+
+[![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YxCXLC7VPk/)
+
+</div>
+
+## 🏅 Achievements
+
+| Category | Highlights |
+|---|---|
+| 🎓 **Academic** | M.Sc. IT — 9.36 SGPA · 150/150 in Final Research Project Exam · 3 published research papers |
+| 🏆 **Competitions** | 3 national-level · 3 state-level · 60+ inter-collegiate wins · 20 individual trophies · 20+ medals |
+| 🚀 **Hackathons** | 2× Finalist |
+| 💼 **Professional** | Best Student of Batch — JP Morgan × Anudip Foundation (Gold Milestone) · 110+ certifications |
+| 🌐 **Community & Leadership** | Student Council Member · Documentation Head · Event Organizer · Head Core (Freshers & Farewell) · Student Coordinator, ONGC-NIO · Contingent Leader, CC Phoenix (led team to 1st place / Best Department at Nexus 2026, 14+ departments) |
+
+## 💼 Freelance & Client Projects
+
+I don't only build academic projects — I've helped juniors, college colleagues, and outside clients turn requirements into working solutions: web/app development, Google Forms, presentations, project documentation, and technical mentorship, alongside freelance work through Fiverr.
+
+[![Fiverr](https://img.shields.io/badge/View_Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)]([VERIFY PUBLIC FIVERR PROFILE URL])
+
+## 🌍 Beyond the Code
+
+200+ technology events attended across Mumbai — talks, workshops, hackathons, and community meetups. I try to stay close to the ecosystem, not just the screen.
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RatneshPathak&show_icons=true&theme=dark&hide_border=true&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RatneshPathak&layout=compact&theme=dark&hide_border=true)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RatneshPathak&theme=dark&hide_border=true)
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ratnesh-pathak-087466279)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/YxCXLC7VPk/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pathakratnesh03@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ratnesh_0318)
+
+*Open to AI/ML opportunities, collaborations, and interesting problems.*
+
+<img src="https://komarev.com/ghpvc/?username=RatneshPathak&label=Profile+Views&color=6c3ce8&style=flat" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,100:2d0b5a&height=100&section=footer" width="100%"/>
