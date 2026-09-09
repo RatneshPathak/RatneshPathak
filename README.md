@@ -92,12 +92,12 @@ Areas I actively work in: **Machine Learning**, **Computer Vision**, **NLP and s
 **Stack:** Python · Flask · scikit-learn · NLP · VADER · JavaScript · REST API · Docker · Pytest
 
 👉 **[View FinSentAI →](https://github.com/RatneshPathak/FinSentAI)**
-## 🖥️ Application Preview
+
+## 🖥️ FinSentAI — Application Preview
 
 <p align="center">
-  <img src="docs/screenshots/FinSentAI-dashboard.jpg" alt="FinSentAI Dashboard" width="100%">
+  <img src="https://raw.githubusercontent.com/RatneshPathak/FinSentAI/main/docs/screenshots/FinSentAI-dashboard.jpg" alt="FinSentAI Dashboard" width="100%">
 </p>
----
 
 ### 🛡️ crowd_safety_ai
 
