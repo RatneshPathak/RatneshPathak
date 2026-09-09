@@ -184,7 +184,8 @@ Notebook-based project and learning work.
 
 I don't only build academic projects — I've helped juniors, college colleagues, and outside clients turn requirements into working solutions: web/app development, Google Forms, presentations, project documentation, and technical mentorship, alongside freelance work through Fiverr.
 
-[![Fiverr]( https://www.fiverr.com/ratneshpathak05?utm_source=chatgpt.com)]([VERIFY PUBLIC FIVERR PROFILE URL])
+[![Fiverr](https://img.shields.io/badge/View_Fiverr-1DBF73?style=for-the-badge\&logo=fiverr\&logoColor=white)](https://www.fiverr.com/ratneshpathak05)
+
 
 ## 🌍 Beyond the Code
 
