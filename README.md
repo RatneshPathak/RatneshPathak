@@ -99,6 +99,10 @@ Areas I actively work in: **Machine Learning**, **Computer Vision**, **NLP and s
   <img src="https://raw.githubusercontent.com/RatneshPathak/FinSentAI/main/docs/screenshots/FinSentAI-dashboard.jpg" alt="FinSentAI Dashboard" width="100%">
 </p>
 
+<p align="center">
+  <em>FinSentAI financial intelligence dashboard — sentiment analysis, market context, analytics and financial insights.</em>
+</p>
+
 ### 🛡️ crowd_safety_ai
 
 Real-time crowd risk detection using computer vision to analyze crowd density and motion anomalies for public safety.
