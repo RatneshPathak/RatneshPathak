@@ -96,12 +96,13 @@ Areas I actively work in: **Machine Learning**, **Computer Vision**, **NLP and s
 ## 🖥️ FinSentAI — Application Preview
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RatneshPathak/FinSentAI/main/docs/screenshots/FinSentAI-dashboard.jpg" alt="FinSentAI Dashboard" width="100%">
+  <img src="https://github.com/RatneshPathak/FinSentAI/blob/main/docs/screenshots/FinSentAI-dashboard.jpg?raw=true" alt="FinSentAI Dashboard" width="100%">
 </p>
 
 <p align="center">
   <em>FinSentAI financial intelligence dashboard — sentiment analysis, market context, analytics and financial insights.</em>
 </p>
+
 
 ### 🛡️ crowd_safety_ai
 
