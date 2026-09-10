@@ -103,6 +103,7 @@ Areas I actively work in: **Machine Learning**, **Computer Vision**, **NLP and s
   <em>FinSentAI financial intelligence dashboard — sentiment analysis, market context, analytics and financial insights.</em>
 </p>
 
+---
 
 ### 🛡️ crowd_safety_ai
 
@@ -141,6 +142,46 @@ Notebook-based project and learning work.
 **Stack:** Jupyter Notebook
 
 👉 **[View Repository →](https://github.com/RatneshPathak/IIT-BOMBAY-)**
+
+## 🌍 Other Projects
+
+### ✈️ WanderLust — Travel Planning Platform
+
+A full-stack travel planning application focused on organizing trips, managing activities and budgets, user authentication, dashboards, and integrating external travel-related services.
+
+**Highlights:**
+
+* User registration and authentication
+* JWT-based authentication
+* Trip creation and management
+* Activity management
+* Trip budget management
+* User dashboard and profile
+* Admin user and trip management
+* Analytics endpoints
+* Weather integration
+* Flight integration
+* Geocoding
+* Currency conversion
+* AI-powered travel functionality
+* Shared-trip functionality
+* Flask REST API
+* Frontend served through the Flask application
+* GitHub Actions Python syntax checks
+
+**Stack:** Python · Flask · JavaScript · REST API · JWT · SQLite · HTML · CSS · GitHub Actions
+
+👉 **[View WanderLust →](https://github.com/RatneshPathak/WanderLust)**
+
+---
+
+### 🎬 OldNetflixUI-Clone-2022
+
+A Netflix-inspired UI clone project from 2022, showcasing frontend development and interface-building work.
+
+**Stack:** HTML · CSS · JavaScript
+
+👉 **[View OldNetflixUI-Clone-2022 →](https://github.com/RatneshPathak/OldNetflixUI-Clone-2022)**
 
 ## 🛠️ Tech Stack
 
@@ -194,7 +235,6 @@ Notebook-based project and learning work.
 I don't only build academic projects — I've helped juniors, college colleagues, and outside clients turn requirements into working solutions: web/app development, Google Forms, presentations, project documentation, and technical mentorship, alongside freelance work through Fiverr.
 
 [![Fiverr](https://img.shields.io/badge/View_Fiverr-1DBF73?style=for-the-badge\&logo=fiverr\&logoColor=white)](https://www.fiverr.com/ratneshpathak05)
-
 
 ## 🌍 Beyond the Code
 
