@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=110&lines=Hey+There!+I'm+Ratnesh+Pathak+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Builder+%7C+Problem+Solver;Turning+Research+Into+Working+Products+%F0%9F%9A%80" />
+<img src="ai-banner.svg" alt="Ratnesh Pathak — animated AI neural network banner" width="100%"/>
 
 <br/>
 
@@ -32,8 +32,6 @@
 
 ## 👋 About Me
 
-<img align="right" width="300" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │  $ whoami                                                  │
@@ -52,8 +50,6 @@
 I'm an M.Sc. IT graduate (9.36 SGPA, batch topper) currently working as an **AI/ML Intern at Alvin IT Solutions**, based in Mumbai. My work sits at the intersection of applied machine learning, data analytics, NLP, and full-stack development — I like taking a problem from research and idea to a working prototype.
 
 I've published 3 research papers (including financial sentiment analysis with NLP), scored 150/150 on my final research project exam, and been **permanently featured on my UG and PG college's official websites, banners, and magazines** as a recognized top student. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events and community involvement.
-
-<br clear="right"/>
 
 ---
 
@@ -254,6 +250,16 @@ I don't only build academic projects — I've helped juniors, college colleagues
 <div align="center">
 
 ![GitHub Trophies](https://github-trophies.vercel.app/?username=RatneshPathak&theme=darkhub&no-frame=true&row=1&column=7)
+
+</div>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<!--START_SECTION:contribution-snake-->
+<img src="https://raw.githubusercontent.com/RatneshPathak/RatneshPathak/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animating through my GitHub contribution graph" width="100%"/>
+<!--END_SECTION:contribution-snake-->
 
 </div>
 
