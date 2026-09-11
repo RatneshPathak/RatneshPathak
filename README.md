@@ -1,6 +1,6 @@
 <div align="center">
 
-    <img src="ai-banner.svg" alt="Ratnesh Pathak — animated AI neural network banner" width="100%"/>
+  <img src="ai-banner.svg" alt="Ratnesh Pathak — animated AI neural network banner" width="100%"/>
 
 <br/>
 
