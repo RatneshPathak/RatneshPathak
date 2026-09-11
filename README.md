@@ -31,7 +31,7 @@
 ---
 
 ## 👋 About Me
-
+<img align="right" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 ```text
 ┌──────────────────────────────────────────────────────────┐
 │  $ whoami                                                  │
@@ -50,7 +50,7 @@
 I'm an M.Sc. IT graduate (9.36 SGPA, batch topper) currently working as an **AI/ML Intern at Alvin IT Solutions**, based in Mumbai. My work sits at the intersection of applied machine learning, data analytics, NLP, and full-stack development — I like taking a problem from research and idea to a working prototype.
 
 I've published 3 research papers (including financial sentiment analysis with NLP), scored 150/150 on my final research project exam, and been **permanently featured on my UG and PG college's official websites, banners, and magazines** as a recognized top student. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events and community involvement.
-
+<br clear="right"/>
 ---
 
 ## 🤖 AI / ML & Data Focus
