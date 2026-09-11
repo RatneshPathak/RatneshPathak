@@ -104,6 +104,33 @@ Areas I actively work in: **Machine Learning**, **Computer Vision**, **NLP and s
 </p>
 
 ---
+### 🛡️ ContractGuard Pro — AI Contract Intelligence Platform
+
+**ContractGuard Pro** is a full-stack AI-powered contract analysis platform designed to help users review contracts, identify potential risks, understand clauses, generate redlines, and interact with contract analysis through an AI assistant.
+
+**Highlights:**
+
+* AI-powered contract analysis with Groq LLMs
+* PDF and DOCX contract extraction
+* Automated risk and clause analysis
+* AI-powered contract chat
+* Redline generation
+* Contract summaries
+* REST API architecture
+* Express.js backend with React + Vite frontend
+* Security-focused backend configuration
+* Helmet security headers
+* API rate limiting
+* Strict CORS origin validation
+* Environment-based API key management
+* Git/GitHub workflow with feature branches and pull requests
+
+**Stack:** React · Vite · JavaScript · Node.js · Express · Groq AI · PDF/DOCX Processing · REST API · GitHub
+
+👉 **[View ContractGuard Pro →](https://github.com/RatneshPathak/ContractGuard-Pro)**
+
+---
+
 
 ### 🛡️ crowd_safety_ai
 
