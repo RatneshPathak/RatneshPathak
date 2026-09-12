@@ -116,6 +116,20 @@ Areas I actively work in: **Machine Learning**, **Computer Vision**, **NLP & Sen
 👉 **[View ContractGuard Pro →](https://github.com/RatneshPathak/ContractGuard-Pro)**
 
 ---
+### 🤖 RPA Automation — Automated Data Entry System
+
+> Fully automated Robotic Process Automation (RPA) system that eliminates repetitive manual data-entry — combining a custom web interface, Excel-based data processing, and a UiPath workflow to auto-populate Google Forms with high accuracy.
+
+**✨ Highlights**
+* 🔁 End-to-end pipeline from data input/management to automated form submission
+* 🖥️ Custom web interface for data visualization and management (Python + front-end)
+* ⚙️ Optimized UiPath workflows reading Excel data and dynamically populating web forms
+* 🛡️ Error-handling mechanisms for reliable, consistent runs
+* ✅ **100% data-entry accuracy** with significantly reduced manual processing time
+
+**🛠️ Stack:** `UiPath Studio` `Python` `Java` `HTML5` `CSS3` `Excel` `Google Forms`
+
+👉 **[View Repository →](https://github.com/RatneshPathak/rpa-automated-data-entry)**
 
 ### 🛡️ crowd_safety_ai
 Real-time crowd risk detection using computer vision to analyze crowd density and motion anomalies for public safety.
