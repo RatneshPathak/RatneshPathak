@@ -308,15 +308,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RatneshPathak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="RatneshPathak GitHub Stats" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatneshPathak&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
-
-</div>
-
-<div align="center">
+🔥 Current GitHub Streak
 
 
 
