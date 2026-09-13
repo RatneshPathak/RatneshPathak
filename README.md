@@ -194,7 +194,11 @@ Full-stack travel planning application for organizing trips, managing activities
 🛠️ Stack: Python Flask JavaScript REST API JWT SQLite
 
 🔒 Private Repository — Portfolio Project
+### 🌍 WanderLust — AI-Powered Travel Super App
 
+🔒 Private Repository · **[View Live Demo](https://wander-lust-beta-eight.vercel.app/)**
+
+AI-powered travel platform with 28+ integrated travel features.
 🛡️ crowd_safety_ai
 
 Real-time crowd risk detection using computer vision to analyze crowd density and motion anomalies for public safety.
