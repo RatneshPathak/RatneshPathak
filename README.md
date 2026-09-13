@@ -308,7 +308,27 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 <div align="center">
 
-🔥 Current GitHub Streak
+## 📊 GitHub Activity
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-trophies.vercel.app/?username=RatneshPathak&theme=darkhub&no-frame=true&row=2&column=7" alt="GitHub Trophies" width="100%"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<!--START_SECTION:contribution-snake-->
+<img src="https://raw.githubusercontent.com/RatneshPathak/RatneshPathak/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animating through my GitHub contribution graph" width="100%"/>
+<!--END_SECTION:contribution-snake-->
+
+</div>
 
 
 
