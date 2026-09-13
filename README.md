@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="ai-banner.svg" alt="Ratnesh Pathak — animated AI neural network banner" width="100%"/>
+<img src="ai-banner.svg" alt="Ratnesh Pathak — animated AI neural network banner" width="100%"/>
 
-  <h1>Hi, I'm Ratnesh Pathak 👋</h1>
+<h1>Hi, I'm Ratnesh Pathak 👋</h1>
 
-  <p><strong>AI/ML • Data Analytics • Full-Stack Development • Automation</strong></p>
+<p><strong>AI/ML • Data Analytics • Full-Stack Development • Automation</strong></p>
 
 <a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
@@ -13,8 +13,8 @@
 
 <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=RatneshPathak&label=Profile+Views&color=a855f7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/RatneshPathak?logo=github&style=for-the-badge&color=00C2FF" />
+<img src="https://komarev.com/ghpvc/?username=RatneshPathak&label=Profile+Views&color=a855f7&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/RatneshPathak?logo=github&style=for-the-badge&color=00C2FF" />
 
 </div>
 
@@ -22,56 +22,55 @@
 
 <div align="center">
 
-🎓 SGPA
+<table>
+<tr>
+<td align="center">🎓<br/><strong>SGPA</strong><br/><strong>9.36</strong></td>
+<td align="center">📖<br/><strong>Research Papers</strong><br/><strong>3 Published</strong></td>
+<td align="center">🏅<br/><strong>Project Exam Score</strong><br/><strong>150/150</strong></td>
+<td align="center">📚<br/><strong>Certifications</strong><br/><strong>110+</strong></td>
+<td align="center">🧩<br/><strong>LeetCode Badges</strong><br/><strong>23</strong></td>
+<td align="center">🚀<br/><strong>Hackathons</strong><br/><strong>2× Finalist</strong></td>
+</tr>
+</table>
 
-📖 Research Papers
+<br/>
 
-🏅 Project Exam Score
-
-📚 Certifications
-
-🧩 LeetCode Badges
-
-🚀 Hackathons
-
-9.36
-
-3 Published
-
-150/150
-
-110+
-
-23
-
-2× Finalist
-
-🏛️ Permanently featured on UG & PG college websites, official banners, and college magazines — recognized as a standout student across both institutions.
+🏛️ <strong>Permanently featured on UG & PG college websites, official banners, and college magazines — recognized as a standout student across both institutions.</strong>
 
 </div>
 
 👋 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<table>
+<tr>
+<td width="62%" valign="top">
 
-┌──────────────────────────────────────────────────────────┐
-│  $ whoami                                                │
-├──────────────────────────────────────────────────────────┤
-│  name        : Ratnesh Pathak                            │
-│  education   : M.Sc. Information Technology (9.36 SGPA) │
-│  role        : AI/ML Intern @ Alvin IT Solutions         │
-│  focus       : AI • Machine Learning • Data Analytics    │
-│  building    : Practical, verifiable AI/software        │
-│  practicing  : Python • SQL • Power BI • Computer Vision │
-│  exploring   : AI Agents • APIs • NLP                    │
-│  mindset     : Learn → Build → Share → Improve          │
-└──────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────┐
+│  $ whoami                                            │
+├──────────────────────────────────────────────────────┤
+│  name        : Ratnesh Pathak                        │
+│  education   : M.Sc. Information Technology          │
+│                (9.36 SGPA)                            │
+│  role        : AI/ML Intern @ Alvin IT Solutions     │
+│  focus       : AI • Machine Learning • Data Analytics│
+│  building    : Practical, verifiable AI/software     │
+│  practicing  : Python • SQL • Power BI • CV          │
+│  exploring   : AI Agents • APIs • NLP                │
+│  mindset     : Learn → Build → Share → Improve      │
+└──────────────────────────────────────────────────────┘
+
+</td>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="320" alt="Developer coding illustration"/>
+
+</td>
+</tr>
+</table>
 
 I'm an M.Sc. IT graduate (9.36 SGPA, batch topper) currently working as an AI/ML Intern at Alvin IT Solutions, based in Mumbai. My work sits at the intersection of applied machine learning, data analytics, NLP, and full-stack development — I like taking a problem from research and idea to a working prototype.
 
 I've published 3 research papers (including financial sentiment analysis with NLP), scored 150/150 on my final research project exam, and been permanently featured on my UG and PG college's official websites, banners, and magazines as a recognized top student. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events and community involvement.
-
-<br clear="right"/>
 
 🤖 AI / ML & Data Focus
 
@@ -310,6 +309,8 @@ I don't only build academic projects — I've helped juniors, college colleagues
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RatneshPathak&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="RatneshPathak GitHub Stats" />
+
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatneshPathak&layout=compact&theme=dark&hide_border=true&count_private=true" alt="Top Languages" />
 
