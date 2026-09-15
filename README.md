@@ -126,6 +126,29 @@ Full-stack AI-powered contract analysis platform for reviewing contracts, flaggi
 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/ContractGuard-Pro)**
 
 ---
+### ✈️ WanderLust — AI-Powered Travel Super App
+
+Full-stack AI-powered travel platform combining intelligent trip planning, travel utilities, authentication, dashboards, budget management, booking workflows, and smart travel assistance.
+
+✨ **Highlights**
+
+🔐 Authentication, trip creation & management and admin panel
+
+💰 Budget management, activity management and analytics
+
+🌦️ Weather, ✈️ flight, 📍 geocoding and 💱 currency integrations
+
+🤝 Shared-trip functionality and AI-powered travel features
+
+🧳 Smart packing and practical travel utilities
+
+🧠 AI-powered travel planning and assistance
+
+🛠️ **Stack:** Python · Flask · JavaScript · REST API · PostgreSQL · Vercel
+
+🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/WanderLust)** · 🌐 **[View Live Demo](https://wander-lust-beta-eight.vercel.app/)**
+
+---
 
 ### 📚 E-Book Management System — Full Stack Web Application
 
@@ -170,30 +193,6 @@ Automated Robotic Process Automation system that eliminates repetitive manual da
 🛠️ **Stack:** UiPath Studio · Python · HTML5 · CSS3 · Excel · Google Forms
 
 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/rpa-automated-data-entry)**
-
----
-
-### ✈️ WanderLust — AI-Powered Travel Super App
-
-Full-stack AI-powered travel platform combining intelligent trip planning, travel utilities, authentication, dashboards, budget management, booking workflows, and smart travel assistance.
-
-✨ **Highlights**
-
-🔐 Authentication, trip creation & management and admin panel
-
-💰 Budget management, activity management and analytics
-
-🌦️ Weather, ✈️ flight, 📍 geocoding and 💱 currency integrations
-
-🤝 Shared-trip functionality and AI-powered travel features
-
-🧳 Smart packing and practical travel utilities
-
-🧠 AI-powered travel planning and assistance
-
-🛠️ **Stack:** Python · Flask · JavaScript · REST API · PostgreSQL · Vercel
-
-🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/WanderLust)** · 🌐 **[View Live Demo](https://wander-lust-beta-eight.vercel.app/)**
 
 ---
 
