@@ -77,13 +77,15 @@ I've published 3 research papers (including financial sentiment analysis with NL
 
 Areas I actively work in: Machine Learning, Computer Vision, NLP & Sentiment Analysis, Data Analytics & Dashboards, and AI-Assisted Prototyping — turning ideas into working software, then improving reliability, testing, and deployment.
 
-🚀 Featured Projects
+---
 
-💹 FinSentAI — Financial Intelligence Platform
+## 🚀 Featured Projects
+
+### 💹 FinSentAI — Financial Intelligence Platform
 
 End-to-end financial intelligence platform combining NLP, machine learning, financial news, market data, and actionable signal generation.
 
-✨ Highlights
+✨ **Highlights**
 
 🧠 TF-IDF + SVM sentiment classification, VADER + ensemble prediction
 
@@ -97,15 +99,17 @@ End-to-end financial intelligence platform combining NLP, machine learning, fina
 
 🐳 Docker + Gunicorn deployment, Pytest suite, GitHub Actions CI
 
-🛠️ Stack: Python Flask scikit-learn NLP VADER JavaScript REST API Docker Pytest
+🛠️ **Stack:** Python · Flask · scikit-learn · NLP · VADER · JavaScript · REST API · Docker · Pytest
 
-🔒 Private Repository — Portfolio Project · **[View Live Demo](https://finsentai.onrender.com/)**
+🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/FinSentAI)** · 🌐 **[View Live Demo](https://finsentai.onrender.com/)**
 
-🛡️ ContractGuard Pro — AI Contract Intelligence Platform
+---
+
+### 🛡️ ContractGuard Pro — AI Contract Intelligence Platform
 
 Full-stack AI-powered contract analysis platform for reviewing contracts, flagging risk, explaining clauses, generating redlines, and chatting with an AI assistant about contracts.
 
-✨ Highlights
+✨ **Highlights**
 
 🤖 AI-powered contract analysis with Groq LLMs
 
@@ -117,15 +121,17 @@ Full-stack AI-powered contract analysis platform for reviewing contracts, flaggi
 
 🌱 Environment-based API key management and feature-branch Git workflow
 
-🛠️ Stack: React Vite Node.js Express Groq AI PDF/DOCX Processing REST API
+🛠️ **Stack:** React · Vite · Node.js · Express · Groq AI · PDF/DOCX Processing · REST API
 
-🔒 Private Repository — Portfolio Project
+🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/ContractGuard-Pro)**
 
-📚 E-Book Management System — Full Stack Web Application
+---
+
+### 📚 E-Book Management System — Full Stack Web Application
 
 Full-stack e-book platform built with Java, JSP, JavaScript and MySQL, featuring authentication, administration, purchasing, payments, inventory and search workflows.
 
-✨ Highlights
+✨ **Highlights**
 
 🔐 User authentication and role-based access
 
@@ -139,15 +145,17 @@ Full-stack e-book platform built with Java, JSP, JavaScript and MySQL, featuring
 
 🖥️ Complete web application UI
 
-🛠️ Stack: Java JSP JavaScript HTML5 CSS3 MySQL Maven
+🛠️ **Stack:** Java · JSP · JavaScript · HTML5 · CSS3 · MySQL · Maven
 
-🔒 Private Repository — Portfolio Project
+🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/eBook-Management-System)**
 
-🤖 RPA Automation — Automated Data Entry System
+---
+
+### 🤖 RPA Automation — Automated Data Entry System
 
 Automated Robotic Process Automation system that eliminates repetitive manual data entry by combining a custom web interface, Excel-based data processing, and UiPath workflows.
 
-✨ Highlights
+✨ **Highlights**
 
 🔁 End-to-end automated data-entry pipeline
 
@@ -159,17 +167,19 @@ Automated Robotic Process Automation system that eliminates repetitive manual da
 
 ✅ 100% data-entry accuracy in the demonstrated workflow
 
-🛠️ Stack: UiPath Studio Python HTML5 CSS3 Excel Google Forms
+🛠️ **Stack:** UiPath Studio · Python · HTML5 · CSS3 · Excel · Google Forms
 
-🔒 Private Repository — Portfolio Project
+🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/rpa-automated-data-entry)**
 
-✈️ WanderLust — AI-Powered Travel Platform
+---
 
-Full-stack travel planning application for organizing trips, managing activities and budgets, with authentication, dashboards and external service integrations.
+### ✈️ WanderLust — AI-Powered Travel Super App
 
-✨ Highlights
+Full-stack AI-powered travel platform combining intelligent trip planning, travel utilities, authentication, dashboards, budget management, booking workflows, and smart travel assistance.
 
-🔐 JWT authentication, trip creation & management and admin panel
+✨ **Highlights**
+
+🔐 Authentication, trip creation & management and admin panel
 
 💰 Budget management, activity management and analytics
 
@@ -177,77 +187,91 @@ Full-stack travel planning application for organizing trips, managing activities
 
 🤝 Shared-trip functionality and AI-powered travel features
 
-🛠️ Stack: Python Flask JavaScript REST API JWT SQLite
+🧳 Smart packing and practical travel utilities
 
-🔒 Private Repository — Portfolio Project · **[View Live Demo](https://wander-lust-beta-eight.vercel.app/)**
+🧠 AI-powered travel planning and assistance
 
-🌍 WanderLust — AI-Powered Travel Super App
+🛠️ **Stack:** Python · Flask · JavaScript · REST API · PostgreSQL · Vercel
 
-AI-powered travel platform with 28+ integrated travel features.
+🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/WanderLust)** · 🌐 **[View Live Demo](https://wander-lust-beta-eight.vercel.app/)**
 
-🎬 Netflix Homepage — Frontend Clone
+---
 
-Responsive Netflix-inspired homepage clone demonstrating modern frontend development, responsive UI design, navigation, content sections, subscription plans, FAQ sections, and entertainment-focused layouts.
+### 🎬 Netflix Homepage — Frontend UI Project
 
-✨ Highlights
+Netflix-inspired homepage project demonstrating frontend development, entertainment-focused UI design, content presentation and modern web deployment.
+
+✨ **Highlights**
 
 🎥 Netflix-inspired landing page
 
-📱 Responsive design for desktop and mobile screens
+🔥 Popular and trending entertainment sections
 
-🔥 Trending and popular content sections
+💳 Subscription plan presentation
 
-💳 Subscription plans and pricing section
+❓ FAQ section
 
-❓ Interactive FAQ section
+🎨 Entertainment-focused UI
 
-🎨 Modern entertainment-focused UI
+☁️ Deployed with Vercel
 
-🛠️ Stack: HTML5 CSS3 JavaScript Vercel
+🛠️ **Stack:** HTML5 · CSS3 · JavaScript · Vercel
 
-🌐 **[View Live Demo](https://ratneshnetflixhomepage.vercel.app/)**
+🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/NetflixHomePage)** · 🌐 **[View Live Demo](https://ratneshnetflixhomepage.vercel.app/)**
 
-🛡️ crowd_safety_ai
+---
+
+### 🛡️ crowd_safety_ai
 
 Real-time crowd risk detection using computer vision to analyze crowd density and motion anomalies for public safety.
 
-🛠️ Stack: Python Computer Vision
+🛠️ **Stack:** Python · Computer Vision
 
-👉 View Repository →
+🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/crowd_safety_ai)**
 
-📊 Power-BI-dashboard
+---
+
+### 📊 Power-BI-dashboard
 
 Data analytics dashboard project focused on transforming data into interactive business insights.
 
-🛠️ Stack: Power BI
+🛠️ **Stack:** Power BI
 
-👉 View Repository →
+🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/Power-BI-dashboard)**
 
-🐍 Python-Practice
+---
+
+### 🐍 Python-Practice
 
 Applied Python problem-solving and programming practice.
 
-🛠️ Stack: Python
+🛠️ **Stack:** Python
 
-👉 View Repository →
+🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/Python-Practice)**
 
-📓 IIT-BOMBAY-
+---
+
+### 📓 IIT-BOMBAY-
 
 Notebook-based project and learning work.
 
-🛠️ Stack: Jupyter Notebook
+🛠️ **Stack:** Jupyter Notebook
 
-👉 View Repository →
+🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/IIT-BOMBAY-)**
 
-🛠️ Tech Stack
+---
 
-Languages
+## 🛠️ Tech Stack
 
-AI / ML & Data
+### Languages
 
-Web / Tools
+### AI / ML & Data
 
-🧩 Problem Solving
+### Web / Tools
+
+---
+
+## 🧩 Problem Solving
 
 <div align="center">
 
@@ -255,57 +279,53 @@ Web / Tools
 
 </div>
 
-🏅 Achievements
+---
 
-Category
+## 🏅 Achievements
 
-Highlights
-
-🎓 Academic
+### 🎓 Academic
 
 M.Sc. IT — 9.36 SGPA · 150/150 in Final Research Project Exam · 3 published research papers
 
-🏛️ Recognition
+### 🏛️ Recognition
 
 Permanently featured on UG & PG college websites, official banners, and college magazines
 
-🏆 Competitions
+### 🏆 Competitions
 
 3 national-level · 3 state-level · 60+ inter-collegiate wins · 20 individual trophies · 20+ medals
 
-🚀 Hackathons
+### 🚀 Hackathons
 
 2× Finalist
 
-💼 Professional
+### 💼 Professional
 
 Best Student of Batch — JP Morgan × Anudip Foundation (Gold Milestone) · 110+ certifications
 
-🌐 Community & Leadership
+### 🌐 Community & Leadership
 
 Student Council Member · Documentation Head · Event Organizer · Head Core (Freshers & Farewell) · Student Coordinator, ONGC-NIO · Contingent Leader, CC Phoenix
 
-💼 Freelance & Client Projects
+---
+
+## 💼 Freelance & Client Projects
 
 I don't only build academic projects — I've helped juniors, college colleagues, and outside clients turn requirements into working solutions: web/app development, Google Forms, presentations, project documentation, and technical mentorship, alongside freelance work through Fiverr.
 
-🌍 Beyond the Code
+---
+
+## 🌍 Beyond the Code
 
 200+ technology events attended across Mumbai — talks, workshops, hackathons, and community meetups. I try to stay close to the ecosystem, not just the screen.
 
-📊 GitHub Activity
-
-<div align="center">
+---
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-</div>
-
-<div align="center">
-
-🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 
 <img src="https://github-trophies.vercel.app/?username=RatneshPathak&theme=darkhub&no-frame=true&row=2&column=7" alt="GitHub Trophies" width="100%"/>
 
@@ -313,7 +333,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 <div align="center">
 
-🐍 Contribution Snake
+### 🐍 Contribution Snake
 
 <!--START_SECTION:contribution-snake-->
 
@@ -323,15 +343,21 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 </div>
 
-📫 Connect With Me
+---
+
+## 📫 Connect With Me
 
 <div align="center">
+
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-🚀 "Learn. Build. Share. Improve. Repeat."
+🚀 **"Learn. Build. Share. Improve. Repeat."**
 
 Open to AI/ML opportunities, collaborations, and interesting problems.
 
