@@ -6,10 +6,7 @@
 
 <p><strong>AI/ML • Data Analytics • Full-Stack Development • Automation</strong></p>
 
-<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-<a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
@@ -76,17 +73,6 @@ I've published 3 research papers (including financial sentiment analysis with NL
 
 <div align="center">
 
-
-
-
-
-
-
-
-
-
-
-
 </div>
 
 Areas I actively work in: Machine Learning, Computer Vision, NLP & Sentiment Analysis, Data Analytics & Dashboards, and AI-Assisted Prototyping — turning ideas into working software, then improving reliability, testing, and deployment.
@@ -113,7 +99,7 @@ End-to-end financial intelligence platform combining NLP, machine learning, fina
 
 🛠️ Stack: Python Flask scikit-learn NLP VADER JavaScript REST API Docker Pytest
 
-🔒 Private Repository — Portfolio Project
+🔒 Private Repository — Portfolio Project · **[View Live Demo](https://finsentai.onrender.com/)**
 
 🛡️ ContractGuard Pro — AI Contract Intelligence Platform
 
@@ -193,12 +179,34 @@ Full-stack travel planning application for organizing trips, managing activities
 
 🛠️ Stack: Python Flask JavaScript REST API JWT SQLite
 
-🔒 Private Repository — Portfolio Project
-### 🌍 WanderLust — AI-Powered Travel Super App
+🔒 Private Repository — Portfolio Project · **[View Live Demo](https://wander-lust-beta-eight.vercel.app/)**
 
-🔒 Private Repository · **[View Live Demo](https://wander-lust-beta-eight.vercel.app/)**
+🌍 WanderLust — AI-Powered Travel Super App
 
 AI-powered travel platform with 28+ integrated travel features.
+
+🎬 Netflix Homepage — Frontend Clone
+
+Responsive Netflix-inspired homepage clone demonstrating modern frontend development, responsive UI design, navigation, content sections, subscription plans, FAQ sections, and entertainment-focused layouts.
+
+✨ Highlights
+
+🎥 Netflix-inspired landing page
+
+📱 Responsive design for desktop and mobile screens
+
+🔥 Trending and popular content sections
+
+💳 Subscription plans and pricing section
+
+❓ Interactive FAQ section
+
+🎨 Modern entertainment-focused UI
+
+🛠️ Stack: HTML5 CSS3 JavaScript Vercel
+
+🌐 **[View Live Demo](https://ratneshnetflixhomepage.vercel.app/)**
+
 🛡️ crowd_safety_ai
 
 Real-time crowd risk detection using computer vision to analyze crowd density and motion anomalies for public safety.
@@ -235,36 +243,15 @@ Notebook-based project and learning work.
 
 Languages
 
-
-
-
-
-
-
-
 AI / ML & Data
 
-
-
-
-
-
-
-
 Web / Tools
-
-
-
-
-
 
 🧩 Problem Solving
 
 <div align="center">
 
 23 LeetCode Badges — consistent coding practice alongside academic and project work.
-
-
 
 </div>
 
@@ -302,8 +289,6 @@ Student Council Member · Documentation Head · Event Organizer · Head Core (Fr
 
 I don't only build academic projects — I've helped juniors, college colleagues, and outside clients turn requirements into working solutions: web/app development, Google Forms, presentations, project documentation, and technical mentorship, alongside freelance work through Fiverr.
 
-
-
 🌍 Beyond the Code
 
 200+ technology events attended across Mumbai — talks, workshops, hackathons, and community meetups. I try to stay close to the ecosystem, not just the screen.
@@ -333,6 +318,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 <!--START_SECTION:contribution-snake-->
 
 <img src="https://raw.githubusercontent.com/RatneshPathak/RatneshPathak/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake animating through my GitHub contribution graph" width="100%"/>
+
 <!--END_SECTION:contribution-snake-->
 
 </div>
@@ -340,11 +326,6 @@ I don't only build academic projects — I've helped juniors, college colleagues
 📫 Connect With Me
 
 <div align="center">
-
-
-
-
-
 
 </div>
 
