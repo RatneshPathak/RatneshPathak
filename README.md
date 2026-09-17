@@ -239,6 +239,15 @@ Data analytics dashboard project focused on transforming data into interactive b
 🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/Power-BI-dashboard)**
 
 ---
+### 📓 IIT-BOMBAY-
+
+Notebook-based project and learning work.
+
+🛠️ **Stack:** Jupyter Notebook
+
+🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/IIT-BOMBAY-)**
+
+---
 
 ### 🐍 Python-Practice
 
@@ -247,16 +256,6 @@ Applied Python problem-solving and programming practice.
 🛠️ **Stack:** Python
 
 🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/Python-Practice)**
-
----
-
-### 📓 IIT-BOMBAY-
-
-Notebook-based project and learning work.
-
-🛠️ **Stack:** Jupyter Notebook
-
-🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/IIT-BOMBAY-)**
 
 ---
 
