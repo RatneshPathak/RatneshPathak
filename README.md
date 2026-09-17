@@ -27,6 +27,7 @@
 <td align="center">📚<br/><strong>Certifications</strong><br/><strong>110+</strong></td>
 <td align="center">🧩<br/><strong>LeetCode Badges</strong><br/><strong>23</strong></td>
 <td align="center">🚀<br/><strong>Hackathons</strong><br/><strong>2× Finalist</strong></td>
+<td align="center">💼<br/><strong>LinkedIn Followers</strong><br/><strong>12,500+</strong></td>
 </tr>
 </table>
 
