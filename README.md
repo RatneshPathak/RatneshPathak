@@ -201,7 +201,25 @@ ML-driven web security platform for detecting potentially malicious URLs through
 
 🚀 **[Live Demo](https://phishguard-zw3p.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/PhishGuard)**
 
+### 🗳️ MyVotingApp — Secure Online Voting Portal
 
+Full-stack Flask-based e-voting platform with admin-approved voter onboarding, one-vote-per-user enforcement, CSRF-protected voting/admin actions, and a live results dashboard.
+
+✨ **Highlights**
+
+🔐 PBKDF2 password hashing, CSRF tokens on every state-changing request
+
+🧾 Admin dashboard for voter approval, candidate management, and CSV export
+
+✅ One-vote enforcement with server-side vote locking
+
+🧠 REST API layer for live results, auth status, and candidate profiles
+
+⏱️ Session timeout, HttpOnly/SameSite cookies, environment-based secrets
+
+🛠️ **Stack:** Python · Flask · Flask-SQLAlchemy · SQLite · Jinja2
+
+🌐 **[Live Demo](https://myvotingapp-obic.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/MyVotingApp)**
 
 ### 🤖 RPA Automation — Automated Data Entry System
 
