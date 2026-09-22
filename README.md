@@ -175,6 +175,32 @@ Full-stack e-book platform built with Java, JSP, JavaScript and MySQL, featuring
 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/eBook-Management-System)**
 
 ---
+### 🛡️ PhishGuard — Real-Time Phishing URL Detection & Risk Analysis Platform
+
+ML-driven web security platform for detecting potentially malicious URLs through automated feature extraction, machine-learning classification, risk scoring, and explainable security insights.
+
+✨ **Highlights**
+
+🔍 Real-time phishing URL detection using a trained machine-learning model
+
+🧠 Automated extraction of URL-based security features for prediction
+
+📊 Risk categorization and safety scoring for analyzed URLs
+
+📈 Visual analytics and scan insights for understanding detection results
+
+🛡️ Defensive security focus with explainable phishing-risk analysis
+
+🗄️ Scan history and database-backed application workflows
+
+⚙️ Flask-based web application with a complete ML inference pipeline
+
+🧪 Dataset preparation, model training, evaluation, and inference pipeline
+
+🛠️ **Stack:** Python · Flask · scikit-learn · XGBoost · Pandas · HTML5 · CSS3 · JavaScript · SQLite
+
+🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/PhishGuard)**
+
 
 ### 🤖 RPA Automation — Automated Data Entry System
 
