@@ -199,7 +199,8 @@ ML-driven web security platform for detecting potentially malicious URLs through
 
 🛠️ **Stack:** Python · Flask · scikit-learn · XGBoost · Pandas · HTML5 · CSS3 · JavaScript · SQLite
 
-🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/PhishGuard)**
+🚀 **[Live Demo](https://phishguard-zw3p.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/PhishGuard)**
+
 
 
 ### 🤖 RPA Automation — Automated Data Entry System
