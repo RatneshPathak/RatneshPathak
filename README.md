@@ -28,9 +28,15 @@
 <td align="center">🏅<br/><strong>Project Exam Score</strong><br/><strong>150/150</strong></td>
 <td align="center">🧩<br/><strong>LeetCode Badges</strong><br/><strong>23</strong></td>
 <td align="center">🚀<br/><strong>Hackathons</strong><br/><strong>2× Finalist</strong></td>
+</tr>
 
+<tr>
+<td align="center">🌐<br/><strong>Live Projects</strong><br/><strong>8</strong></td>
+<td align="center">🏆<br/><strong>National-Level</strong><br/><strong>3×</strong></td>
+<td align="center">🥇<br/><strong>State-Level</strong><br/><strong>3×</strong></td>
 </tr>
 </table>
+
 
 <br/>
 
@@ -172,7 +178,7 @@ Full-stack e-book platform built with Java, JSP, JavaScript and MySQL, featuring
 
 🛠️ **Stack:** Java · JSP · JavaScript · HTML5 · CSS3 · MySQL · Maven
 
-🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/eBook-Management-System)**
+🚀 **[Live Demo](https://ebook-management-system-demo.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/eBook-Management-System)**
 
 ---
 ### 🛡️ PhishGuard — Real-Time Phishing URL Detection & Risk Analysis Platform
