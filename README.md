@@ -221,6 +221,31 @@ Full-stack Flask-based e-voting platform with admin-approved voter onboarding, o
 
 🌐 **[Live Demo](https://myvotingapp-obic.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/MyVotingApp)**
 
+### 📊 WagesOfMumbai-Observatory — Digital Wage & Insecurity Observatory
+
+Digital observatory designed to track and analyze income insecurity among women in Mumbai's informal economy, combining feminist field research with computational policy analysis.
+
+✨ **Highlights**
+
+📊 Multi-factor Vulnerability Index (VI) for analyzing income insecurity
+
+🗺️ Ward-level geospatial heatmaps for visualizing precarity
+
+🏛️ Policy Matcher connecting informal workers with relevant Government Social Security Schemes
+
+⚙️ Modular MVC architecture with production-oriented deployment
+
+🗄️ SQLite-backed data management and analytics workflows
+
+☁️ Deployed on Render with a Linux/Gunicorn production environment
+
+🛠️ **Stack:** Python · Flask · SQLite · Chart.js · Leaflet.js · Geospatial Analytics · Gunicorn
+
+🚀 **[Live Demo](https://wagesofmumbai-observatory.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/WagesOfMumbai-Observatory)**
+
+---
+
+
 ### 🤖 RPA Automation — Automated Data Entry System
 
 Automated Robotic Process Automation system that eliminates repetitive manual data entry by combining a custom web interface, Excel-based data processing, and UiPath workflows.
