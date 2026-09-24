@@ -34,6 +34,7 @@
 <td align="center">🌐<br/><strong>Live Projects</strong><br/><strong>8</strong></td>
 <td align="center">🏆<br/><strong>National-Level</strong><br/><strong>3×</strong></td>
 <td align="center">🥇<br/><strong>State-Level</strong><br/><strong>3×</strong></td>
+<td align="center">💼<br/><strong>Internships</strong><br/><strong>6</strong></td>
 </tr>
 </table>
 
