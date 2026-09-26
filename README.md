@@ -35,6 +35,7 @@
 <td align="center">🏆<br/><strong>National-Level</strong><br/><strong>3×</strong></td>
 <td align="center">🥇<br/><strong>State-Level</strong><br/><strong>3×</strong></td>
 <td align="center">💼<br/><strong>Internships</strong><br/><strong>6</strong></td>
+<td align="center">🌟<br/><strong>LetsUpgrade</strong><br/><strong>Gold Milestone Achiever</strong></td>
 </tr>
 </table>
 
