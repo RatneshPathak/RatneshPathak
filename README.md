@@ -252,6 +252,45 @@ Digital observatory designed to track and analyze income insecurity among women 
 🚀 **[Live Demo](https://wagesofmumbai-observatory.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/WagesOfMumbai-Observatory)**
 
 ---
+### 😊 Mood Journal — Personal Mood Tracking & Reflection App
+
+A private, calming React-based mood journal designed to help users **track moods, write reflections, review journal entries, and discover emotional patterns over time**. All journal data stays locally in the user's browser — no backend or account required.
+
+✨ **Highlights**
+
+📊 Dashboard with mood check-ins, streaks, recent entries, reflection prompts, and mood trends
+
+📝 Journal with create, edit, delete, search, filtering, sorting, and pagination
+
+📈 7/30/90-day insights with mood averages, distributions, trends, streaks, and weekday patterns
+
+🌗 Light & dark themes with persistent theme preference
+
+💾 JSON export/import for personal data backup
+
+📱 Responsive and accessible interface with mobile navigation and keyboard support
+
+🛡️ Resilient browser storage with protection against corrupted or unavailable data
+
+🛠️ **Stack:** React 19 · JavaScript · CSS3 · Jest · React Testing Library
+
+🔒 **Private Repository · [View Repository](https://github.com/RatneshPathak/Mood-Journal)**
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RatneshPathak/Portfolio/master/assets/images/projects/Ui-Mood%20journal.jpeg" alt="Mood Journal UI" width="85%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/RatneshPathak/Portfolio/master/assets/images/projects/upper%20ui-mood%20journal.jpeg" alt="Mood Journal Upper UI" width="85%"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/RatneshPathak/Portfolio/master/assets/images/projects/bottom%20ui-mood%20journal.jpeg" alt="Mood Journal Bottom UI" width="85%"/>
+
+</div>
+
+---
 
 
 ### 🤖 RPA Automation — Automated Data Entry System
