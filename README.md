@@ -276,21 +276,7 @@ A private, calming React-based mood journal designed to help users **track moods
 
 🔒 **Private Repository · [View Repository](https://github.com/RatneshPathak/Mood-Journal)**
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RatneshPathak/Portfolio/master/assets/images/projects/Ui-Mood%20journal.jpeg" alt="Mood Journal UI" width="85%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/RatneshPathak/Portfolio/master/assets/images/projects/upper%20ui-mood%20journal.jpeg" alt="Mood Journal Upper UI" width="85%"/>
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/RatneshPathak/Portfolio/master/assets/images/projects/bottom%20ui-mood%20journal.jpeg" alt="Mood Journal Bottom UI" width="85%"/>
-
-</div>
-
----
+-----
 
 
 ### 🤖 RPA Automation — Automated Data Entry System
