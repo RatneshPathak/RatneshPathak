@@ -23,7 +23,7 @@
 <tr>
 <td align="center">🎓<br/><strong>SGPA</strong><br/><strong>9.36</strong></td>
 <td align="center">📖<br/><strong>Research Papers</strong><br/><strong>3 Published</strong></td>
-<td align="center">💼<br/><strong>LinkedIn Followers</strong><br/><strong>12,800+</strong></td>
+<td align="center">💼<br/><strong>LinkedIn Followers</strong><br/><strong>12,900+</strong></td>
 <td align="center">📚<br/><strong>Certifications</strong><br/><strong>110+</strong></td>
 <td align="center">🏅<br/><strong>PG Final Project Score</strong><br/><strong>150/150</strong></td>
 <td align="center">🧩<br/><strong>LeetCode Badges</strong><br/><strong>23</strong></td>
