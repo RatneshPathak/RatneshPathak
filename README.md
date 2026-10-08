@@ -324,7 +324,31 @@ Netflix-inspired homepage project demonstrating frontend development, entertainm
 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/NetflixHomePage)** · 🌐 **[View Live Demo](https://ratneshnetflixhomepage.vercel.app/)**
 
 ---
+### 🎵 Ratnesh's Music — Spotify-Inspired Music App
 
+Spotify-inspired music web application built with React, featuring Spotify authentication, personalized liked songs, favorite artists, and a responsive music-player interface.
+
+✨ **Highlights**
+
+🎧 Spotify authentication using Authorization Code with PKCE
+
+❤️ Personalized liked/saved songs from the user's Spotify account
+
+🎤 Favorite artist information derived from liked songs
+
+▶️ Interactive song selection and playback bar
+
+👤 Spotify profile information and avatar
+
+📱 Responsive Spotify-inspired interface with sidebar navigation
+
+🎨 Custom UI polish including hover states, active navigation, focus states, and custom scrollbars
+
+🛡️ Token expiration and playback error handling
+
+🛠️ **Stack:** React 18 · JavaScript · React Router · Styled Components · MUI Joy · Axios · Spotify Web API
+
+🌐 **Public Repository · [View Repository](https://github.com/RatneshPathak/SpotifyClone)**
 ### 🛡️ crowd_safety_ai
 
 Real-time crowd risk detection using computer vision to analyze crowd density and motion anomalies for public safety.
