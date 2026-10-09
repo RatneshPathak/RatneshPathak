@@ -402,7 +402,7 @@ Applied Python problem-solving and programming practice.
 
 <div align="center">
 
-23 LeetCode Badges — consistent coding practice alongside academic and project work.
+24 LeetCode Badges — consistent coding practice alongside academic and project work.
 
 </div>
 
