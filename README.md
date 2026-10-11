@@ -91,300 +91,371 @@ Areas I actively work in: Machine Learning, Computer Vision, NLP & Sentiment Ana
 
 ## 🚀 Featured Projects
 
-### 💹 FinSentAI — Financial Intelligence Platform
+<div align="center">
 
-End-to-end financial intelligence platform combining NLP, machine learning, financial news, market data, and actionable signal generation.
+![Projects](https://img.shields.io/badge/Projects-20+-a855f7?style=for-the-badge)
+![Live](https://img.shields.io/badge/Live_Demos-8-00C2FF?style=for-the-badge)
+![Domains](https://img.shields.io/badge/Domains-AI_%7C_Full--Stack_%7C_Automation-22c55e?style=for-the-badge)
 
-✨ **Highlights**
+</div>
 
-🧠 TF-IDF + SVM sentiment classification, VADER + ensemble prediction
+### 🆕 Latest Builds
 
-📰 Financial news ingestion + live market data integration
+<table>
+<tr>
+<td width="33%" valign="top">
 
-📶 BUY / SELL / HOLD / WATCH / CAUTION signal engine
+#### 🎓 Education Hub
+<sub>🆕 **NEW** · Full-Stack Learning Platform</sub>
 
-🔐 REST API with API-key auth, user auth & role-based features
+A Django web app for discovering colleges, with search, stream/city filters, reviews, and user authentication.
 
-📊 Watchlists, alerts, analytics dashboards, AI assistant, report builder
+- 🔍 College search and stream/city filters
+- 🔐 Registration, login & password reset
+- ⭐ Reviews, food & sightseeing by city
+- 🗄️ SQLite database + Django admin
 
-🐳 Docker + Gunicorn deployment, Pytest suite, GitHub Actions CI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-🛠️ **Stack:** Python · Flask · scikit-learn · NLP · VADER · JavaScript · REST API · Docker · Pytest
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Education-Hub)**
 
-🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/FinSentAI)** · 🌐 **[View Live Demo](https://finsentai.onrender.com/)**
+</td>
+<td width="33%" valign="top">
 
----
+#### 🐾 Pet Adoption System
+<sub>🆕 **NEW** · Animal Welfare Platform</sub>
 
-### 🛡️ ContractGuard Pro — AI Contract Intelligence Platform
+A PHP-based platform connecting pets in need with adopters.
 
-Full-stack AI-powered contract analysis platform for reviewing contracts, flagging risk, explaining clauses, generating redlines, and chatting with an AI assistant about contracts.
+- 🐶 Pet listings & profiles
+- 🔎 Search filters
+- 📝 Adoption application workflow
+- 🗄️ Relational SQL database (XAMPP stack)
 
-✨ **Highlights**
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
-🤖 AI-powered contract analysis with Groq LLMs
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Pet-Adoption-System)**
 
-📄 PDF and DOCX contract extraction
+</td>
+<td width="33%" valign="top">
 
-⚠️ Automated risk and clause analysis, redline generation, summaries
+#### 🎟️ Event Hub
+<sub>🆕 **NEW** · Event Management System</sub>
 
-🔒 Helmet security headers, API rate limiting, strict CORS validation
+A JSP and Servlet-based event management system built on the Java web stack.
 
-🌱 Environment-based API key management and feature-branch Git workflow
+- ☕ Java Servlets + JSP
+- 🗄️ MySQL database integration
+- 📦 Maven-managed build
 
-🛠️ **Stack:** React · Vite · Node.js · Express · Groq AI · PDF/DOCX Processing · REST API
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-Servlets-007396?style=flat-square)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/ContractGuard-Pro)**
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Event-Hub-Event-Management-System)**
 
----
-### ✈️ WanderLust — AI-Powered Travel Super App
+</td>
+</tr>
+</table>
 
-Full-stack AI-powered travel platform combining intelligent trip planning, travel utilities, authentication, dashboards, budget management, booking workflows, and smart travel assistance.
+### 🧠 AI / ML & Intelligence Platforms
 
-✨ **Highlights**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🔐 Authentication, trip creation & management and admin panel
+#### 💹 FinSentAI
+<sub>Financial Intelligence Platform</sub>
 
-💰 Budget management, activity management and analytics
+End-to-end platform combining NLP, machine learning, financial news, market data, and actionable signal generation.
 
-🌦️ Weather, ✈️ flight, 📍 geocoding and 💱 currency integrations
+- 🧠 TF-IDF + SVM sentiment, VADER + ensemble prediction
+- 📶 BUY / SELL / HOLD / WATCH / CAUTION signal engine
+- 🔐 REST API with API-key auth, user auth & roles
+- 📊 Watchlists, alerts, dashboards, AI assistant, report builder
+- 🐳 Docker + Gunicorn, Pytest suite, GitHub Actions CI
 
-🤝 Shared-trip functionality and AI-powered travel features
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-🧳 Smart packing and practical travel utilities
+🔒 Private · **[Repo](https://github.com/RatneshPathak/FinSentAI)** · 🌐 **[Live Demo](https://finsentai.onrender.com/)**
 
-🧠 AI-powered travel planning and assistance
+</td>
+<td width="50%" valign="top">
 
-🛠️ **Stack:** Python · Flask · JavaScript · REST API · PostgreSQL · Vercel
+#### 🛡️ ContractGuard Pro
+<sub>AI Contract Intelligence Platform</sub>
 
-🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/WanderLust)** · 🌐 **[View Live Demo](https://wander-lust-beta-eight.vercel.app/)**
+Reviews contracts, flags risk, explains clauses, generates redlines, and chats about contracts.
 
----
+- 🤖 AI analysis with Groq LLMs
+- 📄 PDF and DOCX extraction
+- ⚠️ Risk & clause analysis, redlines, summaries
+- 🔒 Helmet headers, rate limiting, strict CORS
+- 🌱 Env-based API keys, feature-branch Git workflow
 
-### 📚 E-Book Management System — Full Stack Web Application
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square)
 
-Full-stack e-book platform built with Java, JSP, JavaScript and MySQL, featuring authentication, administration, purchasing, payments, inventory and search workflows.
+🔒 Private · **[Repository](https://github.com/RatneshPathak/ContractGuard-Pro)**
 
-✨ **Highlights**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🔐 User authentication and role-based access
+#### 🛡️ PhishGuard
+<sub>Real-Time Phishing URL Detection</sub>
 
-👨‍💼 Admin dashboard and inventory management
+ML-driven security platform with feature extraction, classification, risk scoring, and explainable insights.
 
-📚 E-book selling, purchasing and search functionality
+- 🔍 Real-time detection with a trained ML model
+- 📊 Risk categories, safety scores, visual analytics
+- 🗄️ Scan history and database-backed workflows
+- 🧪 Dataset prep, training, evaluation & inference pipeline
 
-💳 Payment module and transaction workflows
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-🗄️ MySQL database integration
+🔒 Private · **[Repo](https://github.com/RatneshPathak/PhishGuard)** · 🚀 **[Live Demo](https://phishguard-zw3p.onrender.com/)**
 
-🖥️ Complete web application UI
+</td>
+<td width="50%" valign="top">
 
-🛠️ **Stack:** Java · JSP · JavaScript · HTML5 · CSS3 · MySQL · Maven
+#### 📊 WagesOfMumbai-Observatory
+<sub>Digital Wage & Insecurity Observatory</sub>
 
-🚀 **[Live Demo](https://ebook-management-system-demo.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/eBook-Management-System)**
+Tracks income insecurity among women in Mumbai's informal economy, combining field research with computational policy analysis.
 
----
-### 🛡️ PhishGuard — Real-Time Phishing URL Detection & Risk Analysis Platform
+- 📊 Multi-factor Vulnerability Index (VI)
+- 🗺️ Ward-level geospatial heatmaps
+- 🏛️ Policy Matcher for Government Social Security Schemes
+- ☁️ Deployed on Render (Gunicorn)
 
-ML-driven web security platform for detecting potentially malicious URLs through automated feature extraction, machine-learning classification, risk scoring, and explainable security insights.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-✨ **Highlights**
+🔒 Private · **[Repo](https://github.com/RatneshPathak/WagesOfMumbai-Observatory)** · 🚀 **[Live Demo](https://wagesofmumbai-observatory.onrender.com/)**
 
-🔍 Real-time phishing URL detection using a trained machine-learning model
+</td>
+</tr>
+</table>
 
-🧠 Automated extraction of URL-based security features for prediction
+### 🌐 Full-Stack Applications
 
-📊 Risk categorization and safety scoring for analyzed URLs
+<table>
+<tr>
+<td width="50%" valign="top">
 
-📈 Visual analytics and scan insights for understanding detection results
+#### ✈️ WanderLust
+<sub>AI-Powered Travel Super App</sub>
 
-🛡️ Defensive security focus with explainable phishing-risk analysis
+Intelligent trip planning, travel utilities, dashboards, budgets, and booking workflows.
 
-🗄️ Scan history and database-backed application workflows
+- 🔐 Auth, trip management & admin panel
+- 💰 Budgets, activities, analytics
+- 🌦️ Weather, ✈️ flight, 📍 geocoding, 💱 currency APIs
+- 🤝 Shared trips + 🧠 AI travel assistance
 
-⚙️ Flask-based web application with a complete ML inference pipeline
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-🧪 Dataset preparation, model training, evaluation, and inference pipeline
+🔒 Private · **[Repo](https://github.com/RatneshPathak/WanderLust)** · 🌐 **[Live Demo](https://wander-lust-beta-eight.vercel.app/)**
 
-🛠️ **Stack:** Python · Flask · scikit-learn · XGBoost · Pandas · HTML5 · CSS3 · JavaScript · SQLite
+</td>
+<td width="50%" valign="top">
 
-🚀 **[Live Demo](https://phishguard-zw3p.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/PhishGuard)**
+#### 🗳️ MyVotingApp
+<sub>Secure Online Voting Portal</sub>
 
-### 🗳️ MyVotingApp — Secure Online Voting Portal
+Flask e-voting platform with admin-approved voters, one-vote enforcement, and live results.
 
-Full-stack Flask-based e-voting platform with admin-approved voter onboarding, one-vote-per-user enforcement, CSRF-protected voting/admin actions, and a live results dashboard.
+- 🔐 PBKDF2 hashing, CSRF tokens on state-changing requests
+- 🧾 Admin dashboard: voter approval, candidates, CSV export
+- ✅ Server-side vote locking
+- ⏱️ Session timeout, HttpOnly/SameSite cookies
 
-✨ **Highlights**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-🔐 PBKDF2 password hashing, CSRF tokens on every state-changing request
+🔒 Private · **[Repo](https://github.com/RatneshPathak/MyVotingApp)** · 🌐 **[Live Demo](https://myvotingapp-obic.onrender.com/)**
 
-🧾 Admin dashboard for voter approval, candidate management, and CSV export
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-✅ One-vote enforcement with server-side vote locking
+#### 📚 E-Book Management System
+<sub>Java Full-Stack Web Application</sub>
 
-🧠 REST API layer for live results, auth status, and candidate profiles
+E-book platform with authentication, administration, purchasing, payments, inventory, and search.
 
-⏱️ Session timeout, HttpOnly/SameSite cookies, environment-based secrets
+- 🔐 Role-based access
+- 👨‍💼 Admin dashboard & inventory
+- 💳 Payment module & transactions
+- 🗄️ MySQL integration
 
-🛠️ **Stack:** Python · Flask · Flask-SQLAlchemy · SQLite · Jinja2
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-🌐 **[Live Demo](https://myvotingapp-obic.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/MyVotingApp)**
+🔒 Private · **[Repo](https://github.com/RatneshPathak/eBook-Management-System)** · 🚀 **[Live Demo](https://ebook-management-system-demo.onrender.com/)**
 
-### 📊 WagesOfMumbai-Observatory — Digital Wage & Insecurity Observatory
+</td>
+<td width="50%" valign="top">
 
-Digital observatory designed to track and analyze income insecurity among women in Mumbai's informal economy, combining feminist field research with computational policy analysis.
+#### 😊 Mood Journal
+<sub>Personal Mood Tracking & Reflection</sub>
 
-✨ **Highlights**
+A private, calming React journal; all data stays in the browser, no backend or account needed.
 
-📊 Multi-factor Vulnerability Index (VI) for analyzing income insecurity
+- 📊 Dashboard, streaks, reflection prompts, trends
+- 📝 Create/edit/delete, search, filter, sort, paginate
+- 📈 7/30/90-day insights
+- 🌗 Light/dark themes · 💾 JSON export/import
+- 🛡️ Resilient storage, accessible & responsive
 
-🗺️ Ward-level geospatial heatmaps for visualizing precarity
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 
-🏛️ Policy Matcher connecting informal workers with relevant Government Social Security Schemes
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Mood-Journal)**
 
-⚙️ Modular MVC architecture with production-oriented deployment
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-🗄️ SQLite-backed data management and analytics workflows
+#### 🎵 Ratnesh's Music
+<sub>Spotify-Inspired Music App</sub>
 
-☁️ Deployed on Render with a Linux/Gunicorn production environment
+React music app with Spotify authentication, liked songs, favorite artists, and a responsive player UI.
 
-🛠️ **Stack:** Python · Flask · SQLite · Chart.js · Leaflet.js · Geospatial Analytics · Gunicorn
+- 🎧 Spotify Authorization Code with PKCE
+- ❤️ Liked songs & 🎤 favorite artists from your account
+- ▶️ Playback bar, profile & avatar
+- 🛡️ Token expiration and playback error handling
 
-🚀 **[Live Demo](https://wagesofmumbai-observatory.onrender.com/)** · 🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/WagesOfMumbai-Observatory)**
+![React](https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI_Joy-007FFF?style=flat-square&logo=mui&logoColor=white)
+![Spotify API](https://img.shields.io/badge/Spotify_Web_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
 
----
-### 😊 Mood Journal — Personal Mood Tracking & Reflection App
+🌐 Public · **[Repository](https://github.com/RatneshPathak/SpotifyClone)**
 
-A private, calming React-based mood journal designed to help users **track moods, write reflections, review journal entries, and discover emotional patterns over time**. All journal data stays locally in the user's browser — no backend or account required.
+</td>
+<td width="50%" valign="top">
 
-✨ **Highlights**
+#### 🎬 Netflix Homepage
+<sub>Frontend UI Project</sub>
 
-📊 Dashboard with mood check-ins, streaks, recent entries, reflection prompts, and mood trends
+Netflix-inspired homepage showcasing frontend development and modern deployment.
 
-📝 Journal with create, edit, delete, search, filtering, sorting, and pagination
+- 🎥 Landing page, trending sections
+- 💳 Subscription plans · ❓ FAQ
+- ☁️ Deployed with Vercel
 
-📈 7/30/90-day insights with mood averages, distributions, trends, streaks, and weekday patterns
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-🌗 Light & dark themes with persistent theme preference
+🔒 Private · **[Repo](https://github.com/RatneshPathak/NetflixHomePage)** · 🌐 **[Live Demo](https://ratneshnetflixhomepage.vercel.app/)**
 
-💾 JSON export/import for personal data backup
+</td>
+</tr>
+</table>
 
-📱 Responsive and accessible interface with mobile navigation and keyboard support
+### 🤖 Automation, Analytics & Practice
 
-🛡️ Resilient browser storage with protection against corrupted or unavailable data
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🛠️ **Stack:** React 19 · JavaScript · CSS3 · Jest · React Testing Library
+#### 🤖 RPA Automation
+<sub>Automated Data Entry System</sub>
 
-🔒 **Private Repository · [View Repository](https://github.com/RatneshPathak/Mood-Journal)**
+Removes repetitive manual entry with a web interface, Excel processing, and UiPath workflows.
 
------
+- ⚙️ UiPath reads Excel and fills web forms
+- 🛡️ Error handling for reliable runs
+- ✅ 100% accuracy in the demonstrated workflow
 
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### 🤖 RPA Automation — Automated Data Entry System
+🔒 Private · **[Repository](https://github.com/RatneshPathak/rpa-automated-data-entry)**
 
-Automated Robotic Process Automation system that eliminates repetitive manual data entry by combining a custom web interface, Excel-based data processing, and UiPath workflows.
+</td>
+<td width="50%" valign="top">
 
-✨ **Highlights**
+#### 🛡️ crowd_safety_ai
+<sub>Computer Vision for Public Safety</sub>
 
-🔁 End-to-end automated data-entry pipeline
+Real-time crowd risk detection analyzing crowd density and motion anomalies.
 
-🖥️ Custom web interface for data visualization and management
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-⚙️ UiPath workflows reading Excel data and dynamically populating web forms
+🌐 Public · **[Repository](https://github.com/RatneshPathak/crowd_safety_ai)**
 
-🛡️ Error-handling mechanisms for reliable, consistent runs
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-✅ 100% data-entry accuracy in the demonstrated workflow
+#### 📊 Power-BI-dashboard
+<sub>Data Analytics</sub>
 
-🛠️ **Stack:** UiPath Studio · Python · HTML5 · CSS3 · Excel · Google Forms
+Turns data into interactive business insights.
 
-🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/rpa-automated-data-entry)**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
----
+🌐 Public · **[Repository](https://github.com/RatneshPathak/Power-BI-dashboard)**
 
-### 🎬 Netflix Homepage — Frontend UI Project
+</td>
+<td width="50%" valign="top">
 
-Netflix-inspired homepage project demonstrating frontend development, entertainment-focused UI design, content presentation and modern web deployment.
+#### 📓 IIT-BOMBAY- &nbsp;·&nbsp; 🐍 Python-Practice
+<sub>Notebooks & Problem Solving</sub>
 
-✨ **Highlights**
+Notebook-based learning work and applied Python practice.
 
-🎥 Netflix-inspired landing page
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🔥 Popular and trending entertainment sections
+🌐 **[IIT-BOMBAY-](https://github.com/RatneshPathak/IIT-BOMBAY-)** · **[Python-Practice](https://github.com/RatneshPathak/Python-Practice)**
 
-💳 Subscription plan presentation
-
-❓ FAQ section
-
-🎨 Entertainment-focused UI
-
-☁️ Deployed with Vercel
-
-🛠️ **Stack:** HTML5 · CSS3 · JavaScript · Vercel
-
-🔒 Private Repository · **[View Repository](https://github.com/RatneshPathak/NetflixHomePage)** · 🌐 **[View Live Demo](https://ratneshnetflixhomepage.vercel.app/)**
-
----
-### 🎵 Ratnesh's Music — Spotify-Inspired Music App
-
-Spotify-inspired music web application built with React, featuring Spotify authentication, personalized liked songs, favorite artists, and a responsive music-player interface.
-
-✨ **Highlights**
-
-🎧 Spotify authentication using Authorization Code with PKCE
-
-❤️ Personalized liked/saved songs from the user's Spotify account
-
-🎤 Favorite artist information derived from liked songs
-
-▶️ Interactive song selection and playback bar
-
-👤 Spotify profile information and avatar
-
-📱 Responsive Spotify-inspired interface with sidebar navigation
-
-🎨 Custom UI polish including hover states, active navigation, focus states, and custom scrollbars
-
-🛡️ Token expiration and playback error handling
-
-🛠️ **Stack:** React 18 · JavaScript · React Router · Styled Components · MUI Joy · Axios · Spotify Web API
-
-🌐 **Public Repository · [View Repository](https://github.com/RatneshPathak/SpotifyClone)**
-### 🛡️ crowd_safety_ai
-
-Real-time crowd risk detection using computer vision to analyze crowd density and motion anomalies for public safety.
-
-🛠️ **Stack:** Python · Computer Vision
-
-🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/crowd_safety_ai)**
-
----
-
-### 📊 Power-BI-dashboard
-
-Data analytics dashboard project focused on transforming data into interactive business insights.
-
-🛠️ **Stack:** Power BI
-
-🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/Power-BI-dashboard)**
-
----
-### 📓 IIT-BOMBAY-
-
-Notebook-based project and learning work.
-
-🛠️ **Stack:** Jupyter Notebook
-
-🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/IIT-BOMBAY-)**
-
----
-
-### 🐍 Python-Practice
-
-Applied Python problem-solving and programming practice.
-
-🛠️ **Stack:** Python
-
-🌐 Public Repository · **[View Repository](https://github.com/RatneshPathak/Python-Practice)**
+</td>
+</tr>
+</table>
 
 ---
 
