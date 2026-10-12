@@ -1,70 +1,86 @@
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
 
 <img src="ai-banner.svg" alt="Ratnesh Pathak — animated AI neural network banner" width="100%"/>
 
-<h1>Hi, I'm Ratnesh Pathak 👋</h1>
+<a href="https://github.com/RatneshPathak">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Ratnesh+Pathak+%F0%9F%91%8B;AI%2FML+%E2%80%A2+Data+Analytics+%E2%80%A2+Full-Stack;M.Sc.+IT+Topper+%E2%80%A2+9.36+SGPA;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Improve" alt="Typing animation"/>
+</a>
 
-<p><strong>AI/ML • Data Analytics • Full-Stack Development • Automation</strong></p>
+<br/>
 
-<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-24_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=RatneshPathak&label=Profile+Views&color=a855f7&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/RatneshPathak?logo=github&style=for-the-badge&color=00C2FF" />
+<img src="https://img.shields.io/badge/Open_to-AI%2FML_Roles-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Based_in-Mumbai-ff6b6b?style=for-the-badge" />
 
 </div>
 
-🌟 Highlight Reel
+<br/>
+
+<!-- ═══════════════════════ HIGHLIGHTS ═══════════════════════ -->
+## 🌟 Highlight Reel
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">🎓<br/><strong>SGPA</strong><br/><strong>9.36</strong></td>
-<td align="center">📖<br/><strong>Research Papers</strong><br/><strong>3 Published</strong></td>
-<td align="center">💼<br/><strong>LinkedIn Followers</strong><br/><strong>13,000+</strong></td>
-<td align="center">📚<br/><strong>Certifications</strong><br/><strong>110+</strong></td>
-<td align="center">🏅<br/><strong>PG Final Project Score</strong><br/><strong>150/150</strong></td>
-<td align="center">🧩<br/><strong>LeetCode Badges</strong><br/><strong>24</strong></td>
-<td align="center">🚀<br/><strong>Hackathons</strong><br/><strong>2× Finalist</strong></td>
+<td align="center" width="14%">🎓<br/><b>9.36</b><br/><sub>SGPA</sub></td>
+<td align="center" width="14%">📖<br/><b>3</b><br/><sub>Research Papers</sub></td>
+<td align="center" width="14%">💼<br/><b>13,000+</b><br/><sub>LinkedIn Followers</sub></td>
+<td align="center" width="14%">📚<br/><b>110+</b><br/><sub>Certifications</sub></td>
+<td align="center" width="14%">🏅<br/><b>150/150</b><br/><sub>PG Final Project</sub></td>
+<td align="center" width="14%">🧩<br/><b>24</b><br/><sub>LeetCode Badges</sub></td>
+<td align="center" width="14%">🚀<br/><b>2×</b><br/><sub>Hackathon Finalist</sub></td>
 </tr>
-
 <tr>
-<td align="center">🌐<br/><strong>Live Projects</strong><br/><strong>8</strong></td>
-<td align="center">🏆<br/><strong>National-Level</strong><br/><strong>3×</strong></td>
-<td align="center">🥇<br/><strong>State-Level</strong><br/><strong>3×</strong></td>
-<td align="center">💼<br/><strong>Internships</strong><br/><strong>6</strong></td>
-<td align="center">🌟<br/><strong>LetsUpgrade</strong><br/><strong>Gold Milestone Achiever</strong></td>
+<td align="center">🌐<br/><b>8</b><br/><sub>Live Projects</sub></td>
+<td align="center">🏆<br/><b>3×</b><br/><sub>National-Level</sub></td>
+<td align="center">🥇<br/><b>3×</b><br/><sub>State-Level</sub></td>
+<td align="center">💼<br/><b>6</b><br/><sub>Internships</sub></td>
+<td align="center">🌟<br/><b>Gold</b><br/><sub>LetsUpgrade Milestone</sub></td>
+<td align="center">🎪<br/><b>200+</b><br/><sub>Tech Events Attended</sub></td>
+<td align="center">🏆<br/><b>60+</b><br/><sub>Inter-collegiate Wins</sub></td>
 </tr>
 </table>
 
-
 <br/>
 
-🏛️ <strong>Permanently featured on UG & PG college websites, official banners, and college magazines — recognized as a standout student across both institutions.</strong>
+🏛️ <b>Permanently featured on UG & PG college websites, official banners, and college magazines — recognized as a standout student across both institutions.</b>
 
 </div>
 
-👋 About Me
+---
+
+## 👋 About Me
 
 <table>
 <tr>
 <td width="62%" valign="top">
 
+```text
 ┌──────────────────────────────────────────────────────┐
 │  $ whoami                                            │
 ├──────────────────────────────────────────────────────┤
 │  name        : Ratnesh Pathak                        │
 │  education   : M.Sc. Information Technology          │
-│                (9.36 SGPA)                            │
+│                (9.36 SGPA · Batch Topper)            │
 │  role        : AI/ML Intern @ Alvin IT Solutions     │
+│  location    : Mumbai, India                         │
 │  focus       : AI • Machine Learning • Data Analytics│
 │  building    : Practical, verifiable AI/software     │
 │  practicing  : Python • SQL • Power BI • CV          │
 │  exploring   : AI Agents • APIs • NLP                │
-│  mindset     : Learn → Build → Share → Improve      │
+│  mindset     : Learn → Build → Share → Improve       │
 └──────────────────────────────────────────────────────┘
+```
 
 </td>
 <td width="38%" align="center" valign="middle">
@@ -75,17 +91,69 @@
 </tr>
 </table>
 
-I'm an M.Sc. IT graduate (9.36 SGPA, batch topper) currently working as an AI/ML Intern at Alvin IT Solutions, based in Mumbai. My work sits at the intersection of applied machine learning, data analytics, NLP, and full-stack development — I like taking a problem from research and idea to a working prototype.
+I'm an **M.Sc. IT graduate (9.36 SGPA, batch topper)** working as an **AI/ML Intern at Alvin IT Solutions** in Mumbai. My work sits at the intersection of **applied machine learning, data analytics, NLP, and full-stack development** — I like taking a problem from research and idea to a working prototype.
 
-I've published 3 research papers (including financial sentiment analysis with NLP), scored 150/150 on my final research project exam, and been permanently featured on my UG and PG college's official websites, banners, and magazines as a recognized top student. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events and community involvement.
+I've **published 3 research papers** (including financial sentiment analysis with NLP), scored **150/150** on my final research project exam, and been permanently featured on my UG and PG college's official websites, banners, and magazines. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events and community involvement.
 
-🤖 AI / ML & Data Focus
+### 🔁 How I Work
+
+```mermaid
+flowchart LR
+    A([💡 Problem / Idea]) --> B([🔬 Research])
+    B --> C([⚙️ Prototype])
+    C --> D([🧪 Test & Harden])
+    D --> E([🚀 Deploy])
+    E --> F([📣 Share])
+    F -. feedback .-> A
+```
+
+### 🎯 Currently
+
+| | |
+|---|---|
+| 🔭 **Working on** | AI/ML internship projects at Alvin IT Solutions |
+| 🌱 **Exploring** | AI Agents · APIs · NLP |
+| 🧩 **Practicing** | LeetCode · Python · SQL · Power BI · Computer Vision |
+| 🤝 **Looking for** | AI/ML opportunities, collaborations & interesting problems |
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-</div>
+**Languages**
 
-Areas I actively work in: Machine Learning, Computer Vision, NLP & Sentiment Analysis, Data Analytics & Dashboards, and AI-Assisted Prototyping — turning ideas into working software, then improving reliability, testing, and deployment.
+<img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,sass&theme=dark" /><br/>
+
+**AI / ML & Data**
+
+<img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,opencv,jupyter,powerbi&theme=dark" /><br/>
+
+**Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=flask,django,react,vite,nodejs,express,bootstrap,tailwind&theme=dark" /><br/>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" /><br/>
+
+**DevOps, Testing & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,maven,jest,pytest,vscode&theme=dark" /><br/>
+
+**Also**
+
+![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square)
+![VADER](https://img.shields.io/badge/VADER_NLP-8A2BE2?style=flat-square)
+![Groq](https://img.shields.io/badge/Groq_LLMs-F55036?style=flat-square)
+![UiPath](https://img.shields.io/badge/UiPath_RPA-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+
+</div>
 
 ---
 
@@ -93,9 +161,11 @@ Areas I actively work in: Machine Learning, Computer Vision, NLP & Sentiment Ana
 
 <div align="center">
 
-![Projects](https://img.shields.io/badge/Projects-20+-a855f7?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-24-a855f7?style=for-the-badge)
 ![Live](https://img.shields.io/badge/Live_Demos-8-00C2FF?style=for-the-badge)
 ![Domains](https://img.shields.io/badge/Domains-AI_%7C_Full--Stack_%7C_Automation-22c55e?style=for-the-badge)
+
+<sub>🔒 Private repositories are shown for portfolio context — happy to walk through code or demos on request.</sub>
 
 </div>
 
@@ -219,7 +289,7 @@ Reviews contracts, flags risk, explains clauses, generates redlines, and chats a
 <tr>
 <td width="50%" valign="top">
 
-#### 🛡️ PhishGuard
+#### 🎣 PhishGuard
 <sub>Real-Time Phishing URL Detection</sub>
 
 ML-driven security platform with feature extraction, classification, risk scoring, and explainable insights.
@@ -261,7 +331,9 @@ Tracks income insecurity among women in Mumbai's informal economy, combining fie
 </tr>
 </table>
 
-### 🌐 Full-Stack Applications
+<details>
+<summary><b>🌐 Full-Stack Applications</b> &nbsp;·&nbsp; <sub>click to expand</sub></summary>
+<br/>
 
 <table>
 <tr>
@@ -276,6 +348,7 @@ Intelligent trip planning, travel utilities, dashboards, budgets, and booking wo
 - 💰 Budgets, activities, analytics
 - 🌦️ Weather, ✈️ flight, 📍 geocoding, 💱 currency APIs
 - 🤝 Shared trips + 🧠 AI travel assistance
+- 🧳 28+ features: smart packing, voice assistant, QR sharing, pilgrimage experiences, GPS
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -288,17 +361,20 @@ Intelligent trip planning, travel utilities, dashboards, budgets, and booking wo
 <td width="50%" valign="top">
 
 #### 🗳️ MyVotingApp
-<sub>Secure Online Voting Portal</sub>
+<sub>Maharashtra General Assembly · Secure Online Voting System</sub>
 
-Flask e-voting platform with admin-approved voters, one-vote enforcement, and live results.
+Flask + React e-voting platform with admin-approved voters, one-vote enforcement, live results, and automated vote receipts.
 
 - 🔐 PBKDF2 hashing, CSRF tokens on state-changing requests
 - 🧾 Admin dashboard: voter approval, candidates, CSV export
-- ✅ Server-side vote locking
+- ✅ Server-side vote locking · structured validation
+- 🧾 JWT authentication, role-based access, automated vote receipts
 - ⏱️ Session timeout, HttpOnly/SameSite cookies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
@@ -392,7 +468,203 @@ Netflix-inspired homepage showcasing frontend development and modern deployment.
 </tr>
 </table>
 
-### 🤖 Automation, Analytics & Practice
+</details>
+
+<details>
+<summary><b>🧪 More AI, Research & Utility Builds</b> &nbsp;·&nbsp; <sub>click to expand</sub></summary>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 RAG-Powered Intelligent Chatbot
+<sub>Retrieval-Augmented Generation</sub>
+
+Answers questions from custom datasets by retrieving context from a vector database before generating with an LLM, which reduces hallucinations.
+
+- 🔗 Full RAG pipeline: loading, chunking, embeddings, semantic search
+- 🤖 Multiple LLMs via LangChain, compared on output quality
+- 🎯 Tuned chunking and embedding models for retrieval accuracy
+- 💬 Chat interface inside VS Code with Jupyter
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![FAISS/Chroma](https://img.shields.io/badge/FAISS_%7C_Chroma-6C47FF?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/RAG-Chatbot)**
+
+</td>
+<td width="50%" valign="top">
+
+#### ☁️ Cloud-Based Sentiment Analysis Pipeline
+<sub>Financial Research on Google Colab</sub>
+
+A reproducible, cloud-native pipeline for financial sentiment, with batch processing of large datasets and real-time CLI classification.
+
+- 📦 Batch mode + interactive classification
+- 🔁 Shareable notebook, no local setup needed
+- 🧪 Easy experiments across datasets, parameters and preprocessing
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Financial-Sentiment-Colab-Pipeline)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📰 Real-Time Financial Sentiment Web App
+<sub>Research → Production</sub>
+
+Turns my published IJSDR paper, *"Sentiment Analysis of Financial News Data Using Machine Learning Techniques"*, into a live tool.
+
+- ⚡ Instant Positive / Negative / Neutral classification of headlines
+- 🌐 Flask REST backend with a responsive UI
+- 🧪 Trained model from the paper deployed to production
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Financial-Sentiment-Web-App)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 Financial Market Sentiment Intelligence Dashboard
+<sub>Power BI · 1M+ Headlines</sub>
+
+Sentiment patterns across more than a million financial news headlines, with time-series and keyword trend analysis.
+
+- 📉 Sentiment volatility and market-mood transitions
+- 🔑 Keyword frequency analysis for sentiment catalysts
+- 🔎 Drill-down dashboards, DAX measures, ETL and data modeling
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Financial-Sentiment-PowerBI)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ✅ Task Management Web App
+<sub>Flask CRUD</sub>
+
+To-do app to add, edit and track daily tasks, with persistence handled in Flask.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Task-Manager-Flask)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 💬 Interactive AI Chat Bot
+<sub>NLP Conversational Agent</sub>
+
+Web-based chatbot that interprets user queries with NLP and replies through a responsive chat UI.
+
+- 🗣️ NLP-based query understanding
+- 🌐 Flask front-end + back-end
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/AI-Chatbot-Flask)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌦️ Real-Time Weather Forecasting App
+<sub>API Integration</sub>
+
+Live weather and forecasts for any location.
+
+- 🔌 Third-party weather API integration
+- ⚡ Async JavaScript updates, no page reloads
+- 🪶 Lightweight Flask backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Weather-Forecast-App)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🔳 Advanced QR Code Generator
+<sub>Full-Stack Utility</sub>
+
+Turns text, URLs and contact info into customizable QR codes.
+
+- 🎨 Color, size and format options
+- 👀 Real-time preview + instant download
+- 🛡️ Validated Flask backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/QR-Code-Generator)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🔑 Password Strength Analyzer
+<sub>Client-Side Security Tool</sub>
+
+Real-time strength scoring with visual feedback and improvement tips, all in the browser for privacy.
+
+- 🌈 Color gradients, progress bars, security scores
+- 📚 Explains common vulnerabilities and best practices
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Password-Strength-Analyzer)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 Personal Portfolio
+<sub>Responsive SPA · Mobile-First</sub>
+
+Project gallery, publications section, certifications and a contact form, deployed on Vercel.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+**[Repository](https://github.com/RatneshPathak/Portfolio)** · 🌐 **[Live Site](https://ratneshpathakportfolio.vercel.app/)**
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>🤖 Automation, Analytics & Practice</b> &nbsp;·&nbsp; <sub>click to expand</sub></summary>
+<br/>
 
 <table>
 <tr>
@@ -416,7 +688,7 @@ Removes repetitive manual entry with a web interface, Excel processing, and UiPa
 </td>
 <td width="50%" valign="top">
 
-#### 🛡️ crowd_safety_ai
+#### 👁️ crowd_safety_ai
 <sub>Computer Vision for Public Safety</sub>
 
 Real-time crowd risk detection analyzing crowd density and motion anomalies.
@@ -457,15 +729,52 @@ Notebook-based learning work and applied Python practice.
 </tr>
 </table>
 
+</details>
+
 ---
 
-## 🛠️ Tech Stack
+## 🏅 Achievements
 
-### Languages
+<table>
+<tr>
+<td width="33%" valign="top">
 
-### AI / ML & Data
+### 🎓 Academic
+- M.Sc. IT — **9.36 SGPA** (Batch Topper)
+- **150/150** in Final Research Project Exam
+- **3** published research papers
 
-### Web / Tools
+### 🏛️ Recognition
+- Permanently featured on UG & PG college websites, official banners, and college magazines
+
+</td>
+<td width="33%" valign="top">
+
+### 🏆 Competitions
+- **3×** national-level
+- **3×** state-level
+- **60+** inter-collegiate wins
+- **20** individual trophies · **20+** medals
+
+### 🚀 Hackathons
+- **2× Finalist**
+
+</td>
+<td width="33%" valign="top">
+
+### 💼 Professional
+- Best Student of Batch — **JP Morgan × Anudip Foundation** (Gold Milestone)
+- **110+** certifications
+- **6** internships
+
+### 🌐 Community & Leadership
+- Student Council Member · Documentation Head
+- Event Organizer · Head Core (Freshers & Farewell)
+- Student Coordinator, ONGC-NIO · Contingent Leader, CC Phoenix
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -473,49 +782,29 @@ Notebook-based learning work and applied Python practice.
 
 <div align="center">
 
-24 LeetCode Badges — consistent coding practice alongside academic and project work.
+<img src="https://img.shields.io/badge/LeetCode_Badges-24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+*Consistent coding practice alongside academic and project work.*
+
+<a href="https://leetcode.com/u/YxCXLC7VPk/">
+  <img src="https://leetcard.jacoblin.cool/YxCXLC7VPk?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" width="70%"/>
+</a>
 
 </div>
 
 ---
 
-## 🏅 Achievements
-
-### 🎓 Academic
-
-M.Sc. IT — 9.36 SGPA · 150/150 in Final Research Project Exam · 3 published research papers
-
-### 🏛️ Recognition
-
-Permanently featured on UG & PG college websites, official banners, and college magazines
-
-### 🏆 Competitions
-
-3 national-level · 3 state-level · 60+ inter-collegiate wins · 20 individual trophies · 20+ medals
-
-### 🚀 Hackathons
-
-2× Finalist
-
-### 💼 Professional
-
-Best Student of Batch — JP Morgan × Anudip Foundation (Gold Milestone) · 110+ certifications
-
-### 🌐 Community & Leadership
-
-Student Council Member · Documentation Head · Event Organizer · Head Core (Freshers & Farewell) · Student Coordinator, ONGC-NIO · Contingent Leader, CC Phoenix
-
----
-
 ## 💼 Freelance & Client Projects
 
-I don't only build academic projects — I've helped juniors, college colleagues, and outside clients turn requirements into working solutions: web/app development, Google Forms, presentations, project documentation, and technical mentorship, alongside freelance work through Fiverr.
+I don't only build academic projects — I've helped juniors, college colleagues, and outside clients turn requirements into working solutions:
+
+`Web/App Development` · `Google Forms` · `Presentations` · `Project Documentation` · `Technical Mentorship` · `Freelance via Fiverr`
 
 ---
 
 ## 🌍 Beyond the Code
 
-200+ technology events attended across Mumbai — talks, workshops, hackathons, and community meetups. I try to stay close to the ecosystem, not just the screen.
+**200+ technology events** attended across Mumbai — talks, workshops, hackathons, and community meetups. I try to stay close to the ecosystem, not just the screen.
 
 ---
 
@@ -523,13 +812,20 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=RatneshPathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatneshPathak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=RatneshPathak&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" width="70%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RatneshPathak&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=00C2FF&point=ffffff" alt="Contribution activity graph" width="100%"/>
+
 ### 🏆 GitHub Trophies
 
 <img src="https://github-trophies.vercel.app/?username=RatneshPathak&theme=darkhub&no-frame=true&row=2&column=7" alt="GitHub Trophies" width="100%"/>
-
-</div>
-
-<div align="center">
 
 ### 🐍 Contribution Snake
 
@@ -543,20 +839,21 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a> <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br/><br/>
 
 🚀 **"Learn. Build. Share. Improve. Repeat."**
 
-Open to AI/ML opportunities, collaborations, and interesting problems.
+*Open to AI/ML opportunities, collaborations, and interesting problems.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:00C2FF&height=120&section=footer" width="100%"/>
 
 </div>
