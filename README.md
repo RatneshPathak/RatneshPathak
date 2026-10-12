@@ -782,13 +782,29 @@ Notebook-based learning work and applied Python practice.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LeetCode_Badges-24-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-
 *Consistent coding practice alongside academic and project work.*
 
+<br/>
+
+<table>
+<tr>
+<td align="center">✅<br/><b>653</b><br/><sub>Problems Solved</sub></td>
+<td align="center">🟢<br/><b>189</b><br/><sub>Easy</sub></td>
+<td align="center">🟡<br/><b>334</b><br/><sub>Medium</sub></td>
+<td align="center">🔴<br/><b>130</b><br/><sub>Hard</sub></td>
+<td align="center">🏅<br/><b>24</b><br/><sub>Badges</sub></td>
+<td align="center">📅<br/><b>365</b><br/><sub>Active Days (past year)</sub></td>
+<td align="center">🔥<br/><b>198</b><br/><sub>Max Streak (days)</sub></td>
+</tr>
+</table>
+
+<br/>
+
 <a href="https://leetcode.com/u/YxCXLC7VPk/">
-  <img src="https://leetcard.jacoblin.cool/YxCXLC7VPk?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode stats" width="70%"/>
+  <img src="https://leetcard.jacoblin.cool/YxCXLC7VPk?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="Live LeetCode stats and activity heatmap" width="70%"/>
 </a>
+
+<sub>🏅 Earned the <b>365 Days Badge</b> · The card above updates live · <a href="https://leetcode.com/u/YxCXLC7VPk/">View full profile →</a></sub>
 
 </div>
 
