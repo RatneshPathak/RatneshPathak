@@ -471,7 +471,76 @@ Netflix-inspired homepage showcasing frontend development and modern deployment.
 </details>
 
 <details>
-<summary><b>🧪 More AI, Research & Utility Builds</b> &nbsp;·&nbsp; <sub>click to expand</sub></summary>
+<summary><b>🤖 Automation, Analytics & Practice</b> &nbsp;·&nbsp; <sub>click to expand</sub></summary>
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 RPA Automation
+<sub>Automated Data Entry System</sub>
+
+Removes repetitive manual entry with a web interface, Excel processing, and UiPath workflows.
+
+- ⚙️ UiPath reads Excel and fills web forms
+- 🛡️ Error handling for reliable runs
+- ✅ 100% accuracy in the demonstrated workflow
+
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+🔒 Private · **[Repository](https://github.com/RatneshPathak/rpa-automated-data-entry)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 👁️ crowd_safety_ai
+<sub>Computer Vision for Public Safety</sub>
+
+Real-time crowd risk detection analyzing crowd density and motion anomalies.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+🌐 Public · **[Repository](https://github.com/RatneshPathak/crowd_safety_ai)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📊 Power-BI-dashboard
+<sub>Data Analytics</sub>
+
+Turns data into interactive business insights.
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+🌐 Public · **[Repository](https://github.com/RatneshPathak/Power-BI-dashboard)**
+
+</td>
+<td width="50%" valign="top">
+
+#### 📓 IIT-BOMBAY- &nbsp;·&nbsp; 🐍 Python-Practice
+<sub>Notebooks & Problem Solving</sub>
+
+Notebook-based learning work and applied Python practice.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+🌐 **[IIT-BOMBAY-](https://github.com/RatneshPathak/IIT-BOMBAY-)** · **[Python-Practice](https://github.com/RatneshPathak/Python-Practice)**
+
+</td>
+</tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>📦 Earlier Projects & Experiments</b> &nbsp;·&nbsp; <sub>click to expand</sub></summary>
 <br/>
 
 <table>
@@ -655,75 +724,6 @@ Project gallery, publications section, certifications and a contact form, deploy
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 **[Repository](https://github.com/RatneshPathak/Portfolio)** · 🌐 **[Live Site](https://ratneshpathakportfolio.vercel.app/)**
-
-</td>
-</tr>
-</table>
-
-</details>
-
-<details>
-<summary><b>🤖 Automation, Analytics & Practice</b> &nbsp;·&nbsp; <sub>click to expand</sub></summary>
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🤖 RPA Automation
-<sub>Automated Data Entry System</sub>
-
-Removes repetitive manual entry with a web interface, Excel processing, and UiPath workflows.
-
-- ⚙️ UiPath reads Excel and fills web forms
-- 🛡️ Error handling for reliable runs
-- ✅ 100% accuracy in the demonstrated workflow
-
-![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat-square&logo=uipath&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-🔒 Private · **[Repository](https://github.com/RatneshPathak/rpa-automated-data-entry)**
-
-</td>
-<td width="50%" valign="top">
-
-#### 👁️ crowd_safety_ai
-<sub>Computer Vision for Public Safety</sub>
-
-Real-time crowd risk detection analyzing crowd density and motion anomalies.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-🌐 Public · **[Repository](https://github.com/RatneshPathak/crowd_safety_ai)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 📊 Power-BI-dashboard
-<sub>Data Analytics</sub>
-
-Turns data into interactive business insights.
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-🌐 Public · **[Repository](https://github.com/RatneshPathak/Power-BI-dashboard)**
-
-</td>
-<td width="50%" valign="top">
-
-#### 📓 IIT-BOMBAY- &nbsp;·&nbsp; 🐍 Python-Practice
-<sub>Notebooks & Problem Solving</sub>
-
-Notebook-based learning work and applied Python practice.
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-🌐 **[IIT-BOMBAY-](https://github.com/RatneshPathak/IIT-BOMBAY-)** · **[Python-Practice](https://github.com/RatneshPathak/Python-Practice)**
 
 </td>
 </tr>
