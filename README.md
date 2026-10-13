@@ -165,7 +165,7 @@ flowchart LR
 ![Live](https://img.shields.io/badge/Live_Demos-8-00C2FF?style=for-the-badge)
 ![Domains](https://img.shields.io/badge/Domains-AI_%7C_Full--Stack_%7C_Automation-22c55e?style=for-the-badge)
 
-<sub>🔒 Private repositories are shown for portfolio context — happy to walk through code or demos on request.</sub>
+<sub>🌐 Every project links to a public showcase with screenshots and documentation. Source code is private and available on request.</sub>
 
 </div>
 
@@ -210,7 +210,7 @@ A PHP-based platform connecting pets in need with adopters.
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Pet-Adoption-System)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Pet-Adoption-System-Showcase)**
 
 </td>
 <td width="33%" valign="top">
@@ -258,7 +258,7 @@ End-to-end platform combining NLP, machine learning, financial news, market data
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
-🔒 Private · **[Repo](https://github.com/RatneshPathak/FinSentAI)** · 🌐 **[Live Demo](https://finsentai.onrender.com/)**
+🌐 Showcase (source private) · **[Repo](https://github.com/RatneshPathak/finsentai-showcase)** · 🚀 **[Live Demo](https://finsentai.onrender.com/)**
 
 </td>
 <td width="50%" valign="top">
@@ -280,7 +280,7 @@ Reviews contracts, flags risk, explains clauses, generates redlines, and chats a
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_AI-F55036?style=flat-square)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/ContractGuard-Pro)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/contractguard-pro-showcase)**
 
 </td>
 </tr>
@@ -303,7 +303,7 @@ ML-driven security platform with feature extraction, classification, risk scorin
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-🔒 Private · **[Repo](https://github.com/RatneshPathak/PhishGuard)** · 🚀 **[Live Demo](https://phishguard-zw3p.onrender.com/)**
+🌐 Showcase (source private) · **[Repo](https://github.com/RatneshPathak/phishguard-showcase)** · 🚀 **[Live Demo](https://phishguard-zw3p.onrender.com/)**
 
 </td>
 <td width="50%" valign="top">
@@ -353,7 +353,7 @@ Intelligent trip planning, travel utilities, dashboards, budgets, and booking wo
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-🔒 Private · **[Repo](https://github.com/RatneshPathak/WanderLust)** · 🌐 **[Live Demo](https://wander-lust-beta-eight.vercel.app/)**
+🌐 Showcase (source private) · **[Repo](https://github.com/RatneshPathak/WanderLust-Showcase)** · 🚀 **[Live Demo](https://wander-lust-beta-eight.vercel.app/)**
 
 </td>
 <td width="50%" valign="top">
@@ -376,7 +376,7 @@ Flask + React e-voting platform with admin-approved voters, one-vote enforcement
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-🔒 Private · **[Repo](https://github.com/RatneshPathak/MyVotingApp)** · 🌐 **[Live Demo](https://myvotingapp-obic.onrender.com/)**
+🌐 Showcase (source private) · **[Repo](https://github.com/RatneshPathak/MyVotingApp-Showcase)** · 🚀 **[Live Demo](https://myvotingapp-obic.onrender.com/)**
 
 </td>
 </tr>
@@ -419,7 +419,7 @@ A private, calming React journal; all data stays in the browser, no backend or a
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Mood-Journal)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Mood-Journal-Showcase)**
 
 </td>
 </tr>
@@ -441,7 +441,7 @@ React music app with Spotify authentication, liked songs, favorite artists, and 
 ![MUI](https://img.shields.io/badge/MUI_Joy-007FFF?style=flat-square&logo=mui&logoColor=white)
 ![Spotify API](https://img.shields.io/badge/Spotify_Web_API-1DB954?style=flat-square&logo=spotify&logoColor=white)
 
-🌐 Public · **[Repository](https://github.com/RatneshPathak/SpotifyClone)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Spotify-Clone-showcase)**
 
 </td>
 <td width="50%" valign="top">
@@ -460,7 +460,7 @@ Netflix-inspired homepage showcasing frontend development and modern deployment.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-🔒 Private · **[Repo](https://github.com/RatneshPathak/NetflixHomePage)** · 🌐 **[Live Demo](https://ratneshnetflixhomepage.vercel.app/)**
+🌐 Showcase (source private) · **[Repo](https://github.com/RatneshPathak/Netflix-UI-Showcase)** · 🌐 **[Live Demo](https://ratneshnetflixhomepage.vercel.app/)**
 
 </td>
 </tr>
@@ -489,7 +489,7 @@ Removes repetitive manual entry with a web interface, Excel processing, and UiPa
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/rpa-automated-data-entry)**
+🌐 Showcase with demo videos (source private) · **[Repository](https://github.com/RatneshPathak/RPA-Automated-Data-Entry-Showcase)**
 
 </td>
 <td width="50%" valign="top">
@@ -529,7 +529,7 @@ Notebook-based learning work and applied Python practice.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🌐 **[IIT-BOMBAY-](https://github.com/RatneshPathak/IIT-BOMBAY-)** · **[Python-Practice](https://github.com/RatneshPathak/Python-Practice)**
+🌐 **[IIT-BOMBAY-](https://github.com/RatneshPathak/IIT-BOMBAY-)** · **[Python-Practice](https://github.com/RatneshPathak/Python-Practice)** · **[Algo-Solutions](https://github.com/RatneshPathak/Algo-Solutions)**
 
 </td>
 </tr>
@@ -560,7 +560,7 @@ Answers questions from custom datasets by retrieving context from a vector datab
 ![FAISS/Chroma](https://img.shields.io/badge/FAISS_%7C_Chroma-6C47FF?style=flat-square)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/RAG-Chatbot)**
+🌐 Public · **[Repository](https://github.com/RatneshPathak/RAG-Chatbot)**
 
 </td>
 <td width="50%" valign="top">
@@ -579,7 +579,7 @@ A reproducible, cloud-native pipeline for financial sentiment, with batch proces
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Financial-Sentiment-Colab-Pipeline)**
+🌐 Public · **[Repository](https://github.com/RatneshPathak/Financial-Sentiment-Colab-Pipeline)**
 
 </td>
 </tr>
@@ -599,7 +599,7 @@ Turns my published IJSDR paper, *"Sentiment Analysis of Financial News Data Usin
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Financial-Sentiment-Web-App)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Financial-Sentiment-Web-App-Showcase)**
 
 </td>
 <td width="50%" valign="top">
@@ -616,7 +616,7 @@ Sentiment patterns across more than a million financial news headlines, with tim
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=flat-square)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Financial-Sentiment-PowerBI)**
+🌐 Public · **[Repository](https://github.com/RatneshPathak/Financial-Sentiment-PowerBI)**
 
 </td>
 </tr>
@@ -632,7 +632,7 @@ To-do app to add, edit and track daily tasks, with persistence handled in Flask.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Task-Manager-Flask)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Task-Management-Showcase)**
 
 </td>
 <td width="50%" valign="top">
@@ -649,7 +649,7 @@ Web-based chatbot that interprets user queries with NLP and replies through a re
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/AI-Chatbot-Flask)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/AI-Chatbot-Showcase)**
 
 </td>
 </tr>
@@ -669,7 +669,7 @@ Live weather and forecasts for any location.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Weather-Forecast-App)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Weather-Forecast-App-Showcase)**
 
 </td>
 <td width="50%" valign="top">
@@ -687,7 +687,7 @@ Turns text, URLs and contact info into customizable QR codes.
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/QR-Code-Generator)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/QR-Code-Generator-Showcase)**
 
 </td>
 </tr>
@@ -706,7 +706,7 @@ Real-time strength scoring with visual feedback and improvement tips, all in the
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Password-Strength-Analyzer)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Password-Strength-Analyzer-Showcase)**
 
 </td>
 <td width="50%" valign="top">
