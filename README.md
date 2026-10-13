@@ -721,7 +721,7 @@ Project gallery, publications section, certifications and a contact form, deploy
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**[Repository](https://github.com/RatneshPathak/Portfolio)** · 🌐 **[Live Site](https://ratneshpathakportfolio.vercel.app/)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Portfolio-Showcase)** · 🌐 **[Live Site](https://ratneshpathakportfolio.vercel.app/)**
 
 </td>
 </tr>
