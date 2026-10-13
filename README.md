@@ -52,7 +52,7 @@
 <td align="center">🥇<br/><b>3×</b><br/><sub>State-Level</sub></td>
 <td align="center">💼<br/><b>6</b><br/><sub>Internships</sub></td>
 <td align="center">🌟<br/><b>Gold</b><br/><sub>LetsUpgrade Milestone</sub></td>
-<td align="center">🎪<br/><b>200+</b><br/><sub>Tech Events Attended</sub></td>
+<td align="center">🎪<br/><b>300+</b><br/><sub>Tech Events Attended</sub></td>
 <td align="center">🏆<br/><b>60+</b><br/><sub>Inter-collegiate Wins</sub></td>
 </tr>
 <tr>
