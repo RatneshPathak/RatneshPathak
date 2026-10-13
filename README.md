@@ -191,7 +191,7 @@ A Django web app for discovering colleges, with search, stream/city filters, rev
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Education-Hub)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Education-Hub-Showcase)**
 
 </td>
 <td width="33%" valign="top">
@@ -229,7 +229,7 @@ A JSP and Servlet-based event management system built on the Java web stack.
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Event-Hub-Showcase)**
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/Event-Hub-Showcase)**
 
 </td>
 </tr>
