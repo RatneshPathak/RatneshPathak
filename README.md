@@ -229,7 +229,7 @@ A JSP and Servlet-based event management system built on the Java web stack.
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-🔒 Private · **[Repository](https://github.com/RatneshPathak/Event-Hub-Event-Management-System)**
+🔒 Private · **[Repository](https://github.com/RatneshPathak/Event-Hub-Showcase)**
 
 </td>
 </tr>
