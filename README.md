@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13.1K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-24_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -20,6 +20,12 @@
 <img src="https://img.shields.io/github/followers/RatneshPathak?logo=github&style=for-the-badge&color=00C2FF" />
 <img src="https://img.shields.io/badge/Open_to-AI%2FML_Roles-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Based_in-Mumbai-ff6b6b?style=for-the-badge" />
+
+<br/>
+
+<a href="https://github.com/RatneshPathak?tab=achievements"><img src="https://img.shields.io/badge/GitHub_Achievements-3-f59e0b?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RatneshPathak?tab=repositories"><img src="https://img.shields.io/badge/Contributions-330%2B_this_year-2ea043?style=for-the-badge&logo=github&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/LeetCode_Streak-200_days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 </div>
 
@@ -48,6 +54,15 @@
 <td align="center">🌟<br/><b>Gold</b><br/><sub>LetsUpgrade Milestone</sub></td>
 <td align="center">🎪<br/><b>200+</b><br/><sub>Tech Events Attended</sub></td>
 <td align="center">🏆<br/><b>60+</b><br/><sub>Inter-collegiate Wins</sub></td>
+</tr>
+<tr>
+<td align="center">📦<br/><b>61</b><br/><sub>GitHub Repositories</sub></td>
+<td align="center">⭐<br/><b>37</b><br/><sub>Repos Starred</sub></td>
+<td align="center">🎖️<br/><b>3</b><br/><sub>GitHub Achievements</sub></td>
+<td align="center">🟩<br/><b>330+</b><br/><sub>Contributions (past year)</sub></td>
+<td align="center">🔥<br/><b>200</b><br/><sub>LeetCode Current Streak</sub></td>
+<td align="center">📅<br/><b>500+</b><br/><sub>LeetCode Active Days</sub></td>
+<td align="center">🌐<br/><b>20+</b><br/><sub>Public Showcase Repos</sub></td>
 </tr>
 </table>
 
@@ -791,8 +806,8 @@ Project gallery, publications section, certifications and a contact form, deploy
 <td align="center">🟡<br/><b>334</b><br/><sub>Medium</sub></td>
 <td align="center">🔴<br/><b>130</b><br/><sub>Hard</sub></td>
 <td align="center">🏅<br/><b>24</b><br/><sub>Badges</sub></td>
-<td align="center">📅<br/><b>365</b><br/><sub>Active Days (past year)</sub></td>
-<td align="center">🔥<br/><b>198</b><br/><sub>Max Streak (days)</sub></td>
+<td align="center">📅<br/><b>500+</b><br/><sub>Total Active Days</sub></td>
+<td align="center">🔥<br/><b>200</b><br/><sub>Current Streak (days)</sub></td>
 </tr>
 </table>
 
@@ -837,9 +852,28 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RatneshPathak&theme=react-dark&hide_border=true&bg_color=0d1117&color=a855f7&line=00C2FF&point=ffffff" alt="Contribution activity graph" width="100%"/>
 
+### 🎖️ GitHub Achievements
+
+<a href="https://github.com/RatneshPathak?tab=achievements">
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-Merged_PRs-0969da?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🎲_YOLO-Merged_without_review-f59e0b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_Quickdraw-Closed_within_5_min-2ea043?style=for-the-badge"/>
+</a>
+
+<sub>🟩 <b>330+ contributions</b> in the last year · 📦 <b>61</b> repositories · ⭐ <b>37</b> starred</sub>
+
 ### 🏆 GitHub Trophies
 
-<img src="https://github-trophies.vercel.app/?username=RatneshPathak&theme=darkhub&no-frame=true&row=2&column=7" alt="GitHub Trophies" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=RatneshPathak&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=7&margin-w=12&margin-h=12" alt="GitHub Profile Trophies" width="100%"/>
+
+<img src="https://github-trophies.vercel.app/?username=RatneshPathak&theme=darkhub&no-frame=true&row=3&column=7" alt="More GitHub Trophies" width="100%"/>
+
+### 📈 Profile Summary
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RatneshPathak&theme=tokyonight" alt="Profile details" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RatneshPathak&theme=tokyonight" alt="Repos per language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RatneshPathak&theme=tokyonight" alt="Most commit language" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RatneshPathak&theme=tokyonight" alt="Stats" width="49%"/>
 
 ### 🐍 Contribution Snake
 
