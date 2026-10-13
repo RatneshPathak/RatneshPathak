@@ -390,7 +390,7 @@ E-book platform with authentication, administration, purchasing, payments, inven
 
 - 🔐 Role-based access
 - 👨‍💼 Admin dashboard & inventory
-- 💳 Payment module & transactions
+- 💳 Cart, checkout and orders (demo orders only, no real payments)
 - 🗄️ MySQL integration
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -398,7 +398,7 @@ E-book platform with authentication, administration, purchasing, payments, inven
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-🔒 Private · **[Repo](https://github.com/RatneshPathak/eBook-Management-System)** · 🚀 **[Live Demo](https://ebook-management-system-demo.onrender.com/)**
+🔒 Private · **[Repo](https://github.com/RatneshPathak/eBook-Management-System-Showcase)** · 🚀 **[Live Demo](https://ebook-management-system-demo.onrender.com/)**
 
 </td>
 <td width="50%" valign="top">
