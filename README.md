@@ -201,9 +201,7 @@ A Django web app for discovering colleges, with search, stream/city filters, rev
 
 A PHP-based platform connecting pets in need with adopters.
 
-- 🐶 Pet listings & profiles
-- 🔎 Search filters
-- 📝 Adoption application workflow
+- 🐶 Pet listings & profiles, galleries, and feedback & contact forms
 - 🗄️ Relational SQL database (XAMPP stack)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
