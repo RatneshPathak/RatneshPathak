@@ -386,7 +386,7 @@ Flask + React e-voting platform with admin-approved voters, one-vote enforcement
 #### 📚 E-Book Management System
 <sub>Java Full-Stack Web Application</sub>
 
-E-book platform with authentication, administration, purchasing, payments, inventory, and search.
+E-book platform with authentication, administration, purchasing, inventory, and search.
 
 - 🔐 Role-based access
 - 👨‍💼 Admin dashboard & inventory
@@ -398,7 +398,7 @@ E-book platform with authentication, administration, purchasing, payments, inven
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-🔒 Private · **[Repo](https://github.com/RatneshPathak/eBook-Management-System-Showcase)** · 🚀 **[Live Demo](https://ebook-management-system-demo.onrender.com/)**
+🌐 Showcase (source private) · **[Repo](https://github.com/RatneshPathak/eBook-Management-System-Showcase)** · 🚀 **[Live Demo](https://ebook-management-system-demo.onrender.com/)**
 
 </td>
 <td width="50%" valign="top">
