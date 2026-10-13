@@ -323,7 +323,7 @@ Tracks income insecurity among women in Mumbai's informal economy, combining fie
 ![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-🔒 Private · **[Repo](https://github.com/RatneshPathak/WagesOfMumbai-Observatory)** · 🚀 **[Live Demo](https://wagesofmumbai-observatory.onrender.com/)**
+🌐 Showcase (source private) · **[Repo](https://github.com/RatneshPathak/WagesOfMumbai-Observatory-Showcase)** · 🚀 **[Live Demo](https://wagesofmumbai-observatory.onrender.com/)**
 
 </td>
 </tr>
