@@ -34,7 +34,7 @@
 <tr>
 <td align="center" width="14%">🎓<br/><b>9.36</b><br/><sub>SGPA</sub></td>
 <td align="center" width="14%">📖<br/><b>3</b><br/><sub>Research Papers</sub></td>
-<td align="center" width="14%">💼<br/><b>13,000+</b><br/><sub>LinkedIn Followers</sub></td>
+<td align="center" width="14%">💼<br/><b>13,100+</b><br/><sub>LinkedIn Followers</sub></td>
 <td align="center" width="14%">📚<br/><b>110+</b><br/><sub>Certifications</sub></td>
 <td align="center" width="14%">🏅<br/><b>150/150</b><br/><sub>PG Final Project</sub></td>
 <td align="center" width="14%">🧩<br/><b>24</b><br/><sub>LeetCode Badges</sub></td>
