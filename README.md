@@ -833,7 +833,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 ## 🌍 Beyond the Code
 
-**200+ technology events** attended across Mumbai — talks, workshops, hackathons, and community meetups. I try to stay close to the ecosystem, not just the screen.
+**300+ technology events** attended across Mumbai — talks, workshops, hackathons, and community meetups. I try to stay close to the ecosystem, not just the screen.
 
 ---
 
