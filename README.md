@@ -544,7 +544,7 @@ Notebook-based learning work and applied Python practice.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-🌐 **[IIT-BOMBAY-](https://github.com/RatneshPathak/IIT-BOMBAY-)** · **[Python-Practice](https://github.com/RatneshPathak/Python-Practice)** · **[Algo-Solutions](https://github.com/RatneshPathak/Algo-Solutions)**
+🌐 **[IIT-BOMBAY-](https://github.com/RatneshPathak/IIT-BOMBAY-)** · **[Python-Practice](https://github.com/RatneshPathak/Python-Practice)** · **[Algo-Solutions](https://github.com/RatneshPathak/Algo-Solutions)** · **[CLOUDINTEL-Team-Ignites](https://github.com/RatneshPathak/CLOUDINTEL-Team-Ignites)** · **[Travels](https://github.com/RatneshPathak/Travels)**
 
 </td>
 </tr>
@@ -602,9 +602,9 @@ A reproducible, cloud-native pipeline for financial sentiment, with batch proces
 <td width="50%" valign="top">
 
 #### 📰 Real-Time Financial Sentiment Web App
-<sub>Research → Production</sub>
+<sub>Research → Web App</sub>
 
-Turns my published IJSDR paper, *"Sentiment Analysis of Financial News Data Using Machine Learning Techniques"*, into a live tool.
+Turns my published IJSDR paper, *"Sentiment Analysis of Financial News Data Using Machine Learning Techniques"*, into a working web app.
 
 - ⚡ Instant Positive / Negative / Neutral classification of headlines
 - 🌐 Flask REST backend with a responsive UI
