@@ -24,7 +24,7 @@
 <br/>
 
 <a href="https://github.com/RatneshPathak?tab=achievements"><img src="https://img.shields.io/badge/GitHub_Achievements-3-f59e0b?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/RatneshPathak?tab=repositories"><img src="https://img.shields.io/badge/Contributions-330%2B_this_year-2ea043?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RatneshPathak?tab=repositories"><img src="https://img.shields.io/badge/Contributions-340%2B_this_year-2ea043?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LeetCode_Streak-200_days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 </div>
