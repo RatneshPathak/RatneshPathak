@@ -43,7 +43,7 @@
 <td align="center" width="14%">💼<br/><b>13,100+</b><br/><sub>LinkedIn Followers</sub></td>
 <td align="center" width="14%">📚<br/><b>110+</b><br/><sub>Certifications</sub></td>
 <td align="center" width="14%">🏅<br/><b>150/150</b><br/><sub>PG Final Project</sub></td>
-<td align="center" width="14%">🧩<br/><b>24</b><br/><sub>LeetCode Badges</sub></td>
+<td align="center" width="14%">🧩<br/><b>25</b><br/><sub>LeetCode Badges</sub></td>
 <td align="center" width="14%">🚀<br/><b>2×</b><br/><sub>Hackathon Finalist</sub></td>
 </tr>
 <tr>
@@ -56,13 +56,13 @@
 <td align="center">🏆<br/><b>60+</b><br/><sub>Inter-collegiate Wins</sub></td>
 </tr>
 <tr>
-<td align="center">📦<br/><b>61</b><br/><sub>GitHub Repositories</sub></td>
+<td align="center">📦<br/><b>62</b><br/><sub>GitHub Repositories</sub></td>
 <td align="center">⭐<br/><b>37</b><br/><sub>Repos Starred</sub></td>
 <td align="center">🎖️<br/><b>3</b><br/><sub>GitHub Achievements</sub></td>
-<td align="center">🟩<br/><b>330+</b><br/><sub>Contributions (past year)</sub></td>
+<td align="center">🟩<br/><b>340+</b><br/><sub>Contributions (past year)</sub></td>
 <td align="center">🔥<br/><b>200</b><br/><sub>LeetCode Current Streak</sub></td>
 <td align="center">📅<br/><b>500+</b><br/><sub>LeetCode Active Days</sub></td>
-<td align="center">🌐<br/><b>20+</b><br/><sub>Public Showcase Repos</sub></td>
+<td align="center">🌐<br/><b>33+</b><br/><sub>Public Showcase Repos</sub></td>
 </tr>
 </table>
 
@@ -818,6 +818,7 @@ Project gallery, publications section, certifications and a contact form, deploy
 </a>
 
 <sub>🏅 Earned the <b>365 Days Badge</b> · The card above updates live · <a href="https://leetcode.com/u/YxCXLC7VPk/">View full profile →</a></sub>
+<sub>🏅 Earned the <b> 500 Active Days Badge</b> · The card above updates live · <a href="https://leetcode.com/u/YxCXLC7VPk/">View full profile →</a></sub>
 
 </div>
 
@@ -860,7 +861,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 <img src="https://img.shields.io/badge/⚡_Quickdraw-Closed_within_5_min-2ea043?style=for-the-badge"/>
 </a>
 
-<sub>🟩 <b>330+ contributions</b> in the last year · 📦 <b>61</b> repositories · ⭐ <b>37</b> starred</sub>
+<sub>🟩 <b>340+ contributions</b> in the last year · 📦 <b>62</b> repositories · ⭐ <b>37</b> starred</sub>
 
 ### 🏆 GitHub Trophies
 
