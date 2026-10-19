@@ -59,7 +59,7 @@
 <td align="center">📦<br/><b>62</b><br/><sub>GitHub Repositories</sub></td>
 <td align="center">⭐<br/><b>37</b><br/><sub>Repos Starred</sub></td>
 <td align="center">🎖️<br/><b>3</b><br/><sub>GitHub Achievements</sub></td>
-<td align="center">🟩<br/><b>340+</b><br/><sub>Contributions (past year)</sub></td>
+<td align="center">🟩<br/><b>350+</b><br/><sub>Contributions (past year)</sub></td>
 <td align="center">🔥<br/><b>200</b><br/><sub>LeetCode Current Streak</sub></td>
 <td align="center">📅<br/><b>500+</b><br/><sub>LeetCode Active Days</sub></td>
 <td align="center">🌐<br/><b>33+</b><br/><sub>Public Showcase Repos</sub></td>
