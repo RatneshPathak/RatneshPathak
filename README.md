@@ -47,7 +47,7 @@
 <td align="center" width="14%">🚀<br/><b>2×</b><br/><sub>Hackathon Finalist</sub></td>
 </tr>
 <tr>
-<td align="center">🌐<br/><b>8</b><br/><sub>Live Projects</sub></td>
+<td align="center">🌐<br/><b>9</b><br/><sub>Live Projects</sub></td>
 <td align="center">🏆<br/><b>3×</b><br/><sub>National-Level</sub></td>
 <td align="center">🥇<br/><b>3×</b><br/><sub>State-Level</sub></td>
 <td align="center">💼<br/><b>6</b><br/><sub>Internships</sub></td>
@@ -56,8 +56,8 @@
 <td align="center">🏆<br/><b>60+</b><br/><sub>Inter-collegiate Wins</sub></td>
 </tr>
 <tr>
-<td align="center">📦<br/><b>62</b><br/><sub>GitHub Repositories</sub></td>
-<td align="center">⭐<br/><b>37</b><br/><sub>Repos Starred</sub></td>
+<td align="center">📦<br/><b>63</b><br/><sub>GitHub Repositories</sub></td>
+<td align="center">⭐<br/><b>38</b><br/><sub>Repos Starred</sub></td>
 <td align="center">🎖️<br/><b>3</b><br/><sub>GitHub Achievements</sub></td>
 <td align="center">🟩<br/><b>350+</b><br/><sub>Contributions (past year)</sub></td>
 <td align="center">🔥<br/><b>200</b><br/><sub>LeetCode Current Streak</sub></td>
