@@ -9,7 +9,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13.3K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13.4K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-25_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -24,7 +24,7 @@
 <br/>
 
 <a href="https://github.com/RatneshPathak?tab=achievements"><img src="https://img.shields.io/badge/GitHub_Achievements-3-f59e0b?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/RatneshPathak?tab=repositories"><img src="https://img.shields.io/badge/Contributions-360%2B_this_year-2ea043?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RatneshPathak?tab=repositories"><img src="https://img.shields.io/badge/Contributions-390%2B_this_year-2ea043?style=for-the-badge&logo=github&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/LeetCode_Streak-200+_days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/LeetCode-500+_Active_days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </div>
@@ -40,7 +40,7 @@
 <tr>
 <td align="center" width="14%">🎓<br/><b>9.36</b><br/><sub>SGPA</sub></td>
 <td align="center" width="14%">📖<br/><b>3</b><br/><sub>Research Papers</sub></td>
-<td align="center" width="14%">💼<br/><b>13,300+</b><br/><sub>LinkedIn Followers</sub></td>
+<td align="center" width="14%">💼<br/><b>13,400+</b><br/><sub>LinkedIn Followers</sub></td>
 <td align="center" width="14%">📚<br/><b>110+</b><br/><sub>Certifications</sub></td>
 <td align="center" width="14%">🏅<br/><b>150/150</b><br/><sub>PG Final Project</sub></td>
 <td align="center" width="14%">🧩<br/><b>25</b><br/><sub>LeetCode Badges</sub></td>
@@ -861,7 +861,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 <img src="https://img.shields.io/badge/⚡_Quickdraw-Closed_within_5_min-2ea043?style=for-the-badge"/>
 </a>
 
-<sub>🟩 <b>350+ contributions</b> in the last year · 📦 <b>62</b> repositories · ⭐ <b>37</b> starred</sub>
+<sub>🟩 <b>390+ contributions</b> in the last year · 📦 <b>62</b> repositories · ⭐ <b>38</b> starred</sub>
 
 ### 🏆 GitHub Trophies
 
