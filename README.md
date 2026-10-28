@@ -59,7 +59,7 @@
 <td align="center">📦<br/><b>63</b><br/><sub>GitHub Repositories</sub></td>
 <td align="center">⭐<br/><b>38</b><br/><sub>Repos Starred</sub></td>
 <td align="center">🎖️<br/><b>3</b><br/><sub>GitHub Achievements</sub></td>
-<td align="center">🟩<br/><b>350+</b><br/><sub>Contributions (past year)</sub></td>
+<td align="center">🟩<br/><b>390+</b><br/><sub>Contributions (past year)</sub></td>
 <td align="center">🔥<br/><b>200</b><br/><sub>LeetCode Current Streak</sub></td>
 <td align="center">📅<br/><b>500+</b><br/><sub>LeetCode Active Days</sub></td>
 <td align="center">🌐<br/><b>33+</b><br/><sub>Public Showcase Repos</sub></td>
@@ -87,7 +87,7 @@
 │  name        : Ratnesh Pathak                        │
 │  education   : M.Sc. Information Technology          │
 │                (9.36 SGPA · Batch Topper)            │
-│  role        : AI/ML Intern @ Alvin IT Solutions     │
+│  role        : AI/ML Engineer @ Alvin IT Solutions   │
 │  location    : Mumbai, India                         │
 │  focus       : AI • Machine Learning • Data Analytics│
 │  building    : Practical, verifiable AI/software     │
@@ -106,9 +106,9 @@
 </tr>
 </table>
 
-I'm an **M.Sc. IT graduate (9.36 SGPA, batch topper)** working as an **AI/ML Intern at Alvin IT Solutions** in Mumbai. My work sits at the intersection of **applied machine learning, data analytics, NLP, and full-stack development** — I like taking a problem from research and idea to a working prototype.
+I'm an **M.Sc. IT graduate (9.36 SGPA, batch topper)** working in **AI/ML at Alvin IT Solutions** in Mumbai. My work sits at the intersection of **applied machine learning, data analytics, NLP, and full-stack development** — I like taking a problem from research and idea to a working prototype.
 
-I've **published 3 research papers** (including financial sentiment analysis with NLP), scored **150/150** on my final research project exam, and been permanently featured on my UG and PG college's official websites, banners, and magazines. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events and community involvement.
+I've **published 3 research papers** (including financial sentiment analysis with NLP), scored **150/150** on my final research project exam, and been permanently featured on my UG and PG college's official websites, banners, and magazines. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events, hackathons, and community involvement.
 
 ### 🔁 How I Work
 
@@ -126,8 +126,8 @@ flowchart LR
 
 | | |
 |---|---|
-| 🔭 **Working on** | AI/ML internship projects at Alvin IT Solutions |
-| 🌱 **Exploring** | AI Agents · APIs · NLP |
+| 🔭 **Working on** | AI/ML projects at Alvin IT Solutions |
+| 🌱 **Exploring** | AI Agents · APIs · NLP · Urban & environmental data |
 | 🧩 **Practicing** | LeetCode · Python · SQL · Power BI · Computer Vision |
 | 🤝 **Looking for** | AI/ML opportunities, collaborations & interesting problems |
 
@@ -159,6 +159,7 @@ flowchart LR
 
 **Also**
 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square)
 ![VADER](https://img.shields.io/badge/VADER_NLP-8A2BE2?style=flat-square)
 ![Groq](https://img.shields.io/badge/Groq_LLMs-F55036?style=flat-square)
@@ -176,11 +177,11 @@ flowchart LR
 
 <div align="center">
 
-![Projects](https://img.shields.io/badge/Projects-24-a855f7?style=for-the-badge)
-![Live](https://img.shields.io/badge/Live_Demos-8-00C2FF?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-25-a855f7?style=for-the-badge)
+![Live](https://img.shields.io/badge/Live_Demos-9-00C2FF?style=for-the-badge)
 ![Domains](https://img.shields.io/badge/Domains-AI_%7C_Full--Stack_%7C_Automation-22c55e?style=for-the-badge)
 
-<sub>🌐 Every project links to a public showcase with screenshots and documentation. Source code is private and available on request.</sub>
+<sub>🌐 Every project links to a public repository with screenshots and documentation. Source code is private for most projects and available on request.</sub>
 
 </div>
 
@@ -188,10 +189,32 @@ flowchart LR
 
 <table>
 <tr>
+<td colspan="3" valign="top">
+
+#### 🌫️ CityPulse
+<sub>🆕 **NEW** · Mumbai Air-Quality Prioritisation · HackAMatch 1.0 (Data Mavericks × NSDC) · Team project</sub>
+
+A decision-support tool that helps ward and municipal officers decide **where to act first** on air quality in Mumbai. It turns cleaned air-quality data into a next-day PM2.5 estimate with an honest uncertainty range and a clear priority tier per area.
+
+- 📈 Persistence-based next-day PM2.5 estimate with **empirical error bands**
+- 🚦 Priority tiers so officers can rank areas at a glance
+- 🧪 Honest evaluation: an ML model was tested against a persistence baseline and reported transparently, not oversold
+- 🖥️ Interactive Streamlit dashboard, built with a team of three
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+🌐 Public · **[Repository](https://github.com/RatneshPathak/citypulse)** · 🚀 **[Live Demo](https://citypulseaweb.streamlit.app/)**
+
+</td>
+</tr>
+<tr>
 <td width="33%" valign="top">
 
 #### 🎓 Education Hub
-<sub>🆕 **NEW** · Full-Stack Learning Platform</sub>
+<sub>Full-Stack Learning Platform</sub>
 
 A Django web app for discovering colleges, with search, stream/city filters, reviews, and user authentication.
 
@@ -212,7 +235,7 @@ A Django web app for discovering colleges, with search, stream/city filters, rev
 <td width="33%" valign="top">
 
 #### 🐾 Pet Adoption System
-<sub>🆕 **NEW** · Animal Welfare Platform</sub>
+<sub>Animal Welfare Platform</sub>
 
 A PHP-based platform connecting pets in need with adopters.
 
@@ -231,7 +254,7 @@ A PHP-based platform connecting pets in need with adopters.
 <td width="33%" valign="top">
 
 #### 🎟️ Event Hub
-<sub>🆕 **NEW** · Event Management System</sub>
+<sub>Event Management System</sub>
 
 A JSP and Servlet-based event management system built on the Java web stack.
 
@@ -771,6 +794,7 @@ Project gallery, publications section, certifications and a contact form, deploy
 
 ### 🚀 Hackathons
 - **2× Finalist**
+- Built **CityPulse** for HackAMatch 1.0 (Data Mavericks × NSDC)
 
 </td>
 <td width="33%" valign="top">
@@ -805,7 +829,7 @@ Project gallery, publications section, certifications and a contact form, deploy
 <td align="center">🟢<br/><b>189</b><br/><sub>Easy</sub></td>
 <td align="center">🟡<br/><b>334</b><br/><sub>Medium</sub></td>
 <td align="center">🔴<br/><b>130</b><br/><sub>Hard</sub></td>
-<td align="center">🏅<br/><b>24</b><br/><sub>Badges</sub></td>
+<td align="center">🏅<br/><b>25</b><br/><sub>Badges</sub></td>
 <td align="center">📅<br/><b>500+</b><br/><sub>Total Active Days</sub></td>
 <td align="center">🔥<br/><b>200</b><br/><sub>Current Streak (days)</sub></td>
 </tr>
@@ -817,8 +841,7 @@ Project gallery, publications section, certifications and a contact form, deploy
   <img src="https://leetcard.jacoblin.cool/YxCXLC7VPk?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="Live LeetCode stats and activity heatmap" width="70%"/>
 </a>
 
-<sub>🏅 Earned the <b>365 Days Badge</b> · The card above updates live · <a href="https://leetcode.com/u/YxCXLC7VPk/">View full profile →</a></sub>
-<sub>🏅 Earned the <b> 500 Active Days Badge</b> · The card above updates live · <a href="https://leetcode.com/u/YxCXLC7VPk/">View full profile →</a></sub>
+<sub>🏅 Earned the <b>365 Days Badge</b> and the <b>500 Active Days Badge</b> · The card above updates live · <a href="https://leetcode.com/u/YxCXLC7VPk/">View full profile →</a></sub>
 
 </div>
 
@@ -861,7 +884,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 <img src="https://img.shields.io/badge/⚡_Quickdraw-Closed_within_5_min-2ea043?style=for-the-badge"/>
 </a>
 
-<sub>🟩 <b>390+ contributions</b> in the last year · 📦 <b>62</b> repositories · ⭐ <b>38</b> starred</sub>
+<sub>🟩 <b>390+ contributions</b> in the last year · 📦 <b>63</b> repositories · ⭐ <b>38</b> starred</sub>
 
 ### 🏆 GitHub Trophies
 
