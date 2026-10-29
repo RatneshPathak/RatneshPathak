@@ -24,7 +24,8 @@
 <br/>
 
 <a href="https://github.com/RatneshPathak?tab=achievements"><img src="https://img.shields.io/badge/GitHub_Achievements-3-f59e0b?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://github.com/RatneshPathak?tab=repositories"><img src="https://img.shields.io/badge/Contributions-390%2B_this_year-2ea043?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RatneshPathak?tab=repositories"><img src="https://img.shields.io/badge/Commits-450%2B-2ea043?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a href="https://github.com/RatneshPathak/citypulse"><img src="https://img.shields.io/badge/HackAMatch_1.0-Winner-f0b030?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/LeetCode_Streak-200+_days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/LeetCode-500+_Active_days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </div>
@@ -44,10 +45,10 @@
 <td align="center" width="14%">📚<br/><b>110+</b><br/><sub>Certifications</sub></td>
 <td align="center" width="14%">🏅<br/><b>150/150</b><br/><sub>PG Final Project</sub></td>
 <td align="center" width="14%">🧩<br/><b>25</b><br/><sub>LeetCode Badges</sub></td>
-<td align="center" width="14%">🚀<br/><b>2×</b><br/><sub>Hackathon Finalist</sub></td>
+<td align="center" width="14%">🥇<br/><b>Winner</b><br/><sub>HackAMatch 1.0 · 2× Finalist</sub></td>
 </tr>
 <tr>
-<td align="center">🌐<br/><b>9</b><br/><sub>Live Projects</sub></td>
+<td align="center">🌐<br/><b>10</b><br/><sub>Live Projects</sub></td>
 <td align="center">🏆<br/><b>3×</b><br/><sub>National-Level</sub></td>
 <td align="center">🥇<br/><b>3×</b><br/><sub>State-Level</sub></td>
 <td align="center">💼<br/><b>6</b><br/><sub>Internships</sub></td>
@@ -59,7 +60,7 @@
 <td align="center">📦<br/><b>63</b><br/><sub>GitHub Repositories</sub></td>
 <td align="center">⭐<br/><b>38</b><br/><sub>Repos Starred</sub></td>
 <td align="center">🎖️<br/><b>3</b><br/><sub>GitHub Achievements</sub></td>
-<td align="center">🟩<br/><b>390+</b><br/><sub>Contributions (past year)</sub></td>
+<td align="center">🟩<br/><b>450+</b><br/><sub>Total Commits</sub></td>
 <td align="center">🔥<br/><b>200</b><br/><sub>LeetCode Current Streak</sub></td>
 <td align="center">📅<br/><b>500+</b><br/><sub>LeetCode Active Days</sub></td>
 <td align="center">🌐<br/><b>33+</b><br/><sub>Public Showcase Repos</sub></td>
@@ -177,8 +178,8 @@ flowchart LR
 
 <div align="center">
 
-![Projects](https://img.shields.io/badge/Projects-25-a855f7?style=for-the-badge)
-![Live](https://img.shields.io/badge/Live_Demos-9-00C2FF?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-26-a855f7?style=for-the-badge)
+![Live](https://img.shields.io/badge/Live_Demos-10-00C2FF?style=for-the-badge)
 ![Domains](https://img.shields.io/badge/Domains-AI_%7C_Full--Stack_%7C_Automation-22c55e?style=for-the-badge)
 
 <sub>🌐 Every project links to a public repository with screenshots and documentation. Source code is private for most projects and available on request.</sub>
@@ -192,7 +193,7 @@ flowchart LR
 <td colspan="3" valign="top">
 
 #### 🌫️ CityPulse
-<sub>🆕 **NEW** · Mumbai Air-Quality Prioritisation · HackAMatch 1.0 (Data Mavericks × NSDC) · Team project</sub>
+<sub>🥇 **WINNER, HackAMatch 1.0** (Data Mavericks × NSDC) · Mumbai Air-Quality Prioritisation · Team project</sub>
 
 A decision-support tool that helps ward and municipal officers decide **where to act first** on air quality in Mumbai. It turns cleaned air-quality data into a next-day PM2.5 estimate with an honest uncertainty range and a clear priority tier per area.
 
@@ -207,6 +208,26 @@ A decision-support tool that helps ward and municipal officers decide **where to
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 🌐 Public · **[Repository](https://github.com/RatneshPathak/citypulse)** · 🚀 **[Live Demo](https://citypulseaweb.streamlit.app/)**
+
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top">
+
+#### 🚀 Portfolio Next
+<sub>🆕 **NEW** · Next.js Personal Portfolio · Public showcase of a private build</sub>
+
+My current portfolio, rebuilt on Next.js with a motion-led, type-first design. Every project above is reachable from it.
+
+- ⚡ Next.js App Router, deployed on Vercel
+- 🎨 Custom design system and scroll-driven animation
+- 🌐 Showcase repo contains architecture notes and screenshots, and the source stays private
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+🌐 Showcase (source private) · **[Repository](https://github.com/RatneshPathak/ratnesh-portfolio-next-showcase)** · 🚀 **[Live Site](https://ratnesh-portfolio-next.vercel.app/)**
 
 </td>
 </tr>
@@ -793,8 +814,8 @@ Project gallery, publications section, certifications and a contact form, deploy
 - **20** individual trophies · **20+** medals
 
 ### 🚀 Hackathons
-- **2× Finalist**
-- Built **CityPulse** for HackAMatch 1.0 (Data Mavericks × NSDC)
+- 🥇 **Winner, HackAMatch 1.0** (Data Mavericks × NSDC) with **CityPulse**, a Mumbai air-quality decision-support tool with next-day PM2.5 estimates, uncertainty ranges and priority tiers
+- 🎖️ **2× Finalist**
 
 </td>
 <td width="33%" valign="top">
@@ -884,7 +905,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 <img src="https://img.shields.io/badge/⚡_Quickdraw-Closed_within_5_min-2ea043?style=for-the-badge"/>
 </a>
 
-<sub>🟩 <b>390+ contributions</b> in the last year · 📦 <b>63</b> repositories · ⭐ <b>38</b> starred</sub>
+<sub>🟩 <b>450+ commits</b> · 🟩 <b>390+ contributions</b> in the last year · 📦 <b>63</b> repositories · ⭐ <b>38</b> starred</sub>
 
 ### 🏆 GitHub Trophies
 
