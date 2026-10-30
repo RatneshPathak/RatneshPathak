@@ -4,13 +4,13 @@
 <img src="ai-banner.svg" alt="Ratnesh Pathak — animated AI neural network banner" width="100%"/>
 
 <a href="https://github.com/RatneshPathak">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Ratnesh+Pathak+%F0%9F%91%8B;AI%2FML+%E2%80%A2+Data+Analytics+%E2%80%A2+Full-Stack;M.Sc.+IT+Topper+%E2%80%A2+9.36+SGPA;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Improve" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Ratnesh+Pathak+%F0%9F%91%8B;AI%2FML+%E2%80%A2+Data+Analytics+%E2%80%A2+Full-Stack;M.Sc.+IT+Topper+%E2%80%A2+9.36+SGPA;HackAMatch+1.0+Winner+%F0%9F%A5%87;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Improve" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13.5K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-25_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13.6K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-26_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
@@ -24,10 +24,27 @@
 <br/>
 
 <a href="https://github.com/RatneshPathak?tab=achievements"><img src="https://img.shields.io/badge/GitHub_Achievements-3-f59e0b?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RatneshPathak?tab=repositories"><img src="https://img.shields.io/badge/Repositories-64-6e5494?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/RatneshPathak?tab=stars"><img src="https://img.shields.io/badge/Stars_Given-39-eab308?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://github.com/RatneshPathak?tab=repositories"><img src="https://img.shields.io/badge/Commits-450%2B-2ea043?style=for-the-badge&logo=git&logoColor=white"/></a>
 <a href="https://github.com/RatneshPathak/citypulse"><img src="https://img.shields.io/badge/HackAMatch_1.0-Winner-f0b030?style=for-the-badge"/></a>
 <img src="https://img.shields.io/badge/LeetCode_Streak-200+_days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 <img src="https://img.shields.io/badge/LeetCode-500+_Active_days-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+<br/><br/>
+
+<sub>
+<a href="#-highlight-reel">Highlights</a> ·
+<a href="#-about-me">About</a> ·
+<a href="#%EF%B8%8F-tech-stack">Stack</a> ·
+<a href="#-featured-projects">Projects</a> ·
+<a href="#-achievements">Achievements</a> ·
+<a href="#-trophy-cabinet">Trophies</a> ·
+<a href="#-problem-solving">LeetCode</a> ·
+<a href="#-github-activity">GitHub</a> ·
+<a href="#-lets-connect">Connect</a>
+</sub>
+
 </div>
 
 <br/>
@@ -41,10 +58,10 @@
 <tr>
 <td align="center" width="14%">🎓<br/><b>9.36</b><br/><sub>SGPA</sub></td>
 <td align="center" width="14%">📖<br/><b>3</b><br/><sub>Research Papers</sub></td>
-<td align="center" width="14%">💼<br/><b>13,500+</b><br/><sub>LinkedIn Followers</sub></td>
+<td align="center" width="14%">💼<br/><b>13,600+</b><br/><sub>LinkedIn Followers</sub></td>
 <td align="center" width="14%">📚<br/><b>110+</b><br/><sub>Certifications</sub></td>
 <td align="center" width="14%">🏅<br/><b>150/150</b><br/><sub>PG Final Project</sub></td>
-<td align="center" width="14%">🧩<br/><b>25</b><br/><sub>LeetCode Badges</sub></td>
+<td align="center" width="14%">🧩<br/><b>26</b><br/><sub>LeetCode Badges</sub></td>
 <td align="center" width="14%">🥇<br/><b>Winner</b><br/><sub>HackAMatch 1.0 · 2× Finalist</sub></td>
 </tr>
 <tr>
@@ -57,13 +74,16 @@
 <td align="center">🏆<br/><b>60+</b><br/><sub>Inter-collegiate Wins</sub></td>
 </tr>
 <tr>
-<td align="center">📦<br/><b>63</b><br/><sub>GitHub Repositories</sub></td>
-<td align="center">⭐<br/><b>38</b><br/><sub>Repos Starred</sub></td>
+<td align="center">📦<br/><b>64</b><br/><sub>GitHub Repositories</sub></td>
+<td align="center">⭐<br/><b>39</b><br/><sub>Repos Starred</sub></td>
 <td align="center">🎖️<br/><b>3</b><br/><sub>GitHub Achievements</sub></td>
 <td align="center">🟩<br/><b>450+</b><br/><sub>Total Commits</sub></td>
 <td align="center">🔥<br/><b>200</b><br/><sub>LeetCode Current Streak</sub></td>
 <td align="center">📅<br/><b>500+</b><br/><sub>LeetCode Active Days</sub></td>
-<td align="center">🌐<br/><b>33+</b><br/><sub>Public Showcase Repos</sub></td>
+<td align="center">👀<br/><b>475+</b><br/><sub>Profile Views</sub></td>
+</tr>
+<tr>
+<td align="center" colspan="7">🌐 <b>33+</b> <sub>Public Showcase Repos</sub> &nbsp;·&nbsp; 🚀 <b>26</b> <sub>Projects Built</sub> &nbsp;·&nbsp; 🧠 <b>AI · Data · Full-Stack · Automation</b></td>
 </tr>
 </table>
 
@@ -94,6 +114,7 @@
 │  building    : Practical, verifiable AI/software     │
 │  practicing  : Python • SQL • Power BI • CV          │
 │  exploring   : AI Agents • APIs • NLP                │
+│  community   : 13.6K+ LinkedIn • 300+ tech events    │
 │  mindset     : Learn → Build → Share → Improve       │
 └──────────────────────────────────────────────────────┘
 ```
@@ -109,7 +130,7 @@
 
 I'm an **M.Sc. IT graduate (9.36 SGPA, batch topper)** working in **AI/ML at Alvin IT Solutions** in Mumbai. My work sits at the intersection of **applied machine learning, data analytics, NLP, and full-stack development** — I like taking a problem from research and idea to a working prototype.
 
-I've **published 3 research papers** (including financial sentiment analysis with NLP), scored **150/150** on my final research project exam, and been permanently featured on my UG and PG college's official websites, banners, and magazines. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events, hackathons, and community involvement.
+I've **published 3 research papers** (including financial sentiment analysis with NLP), scored **150/150** on my final research project exam, **won HackAMatch 1.0** with CityPulse, and been permanently featured on my UG and PG college's official websites, banners, and magazines. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events, hackathons, and community involvement.
 
 ### 🔁 How I Work
 
@@ -180,6 +201,7 @@ flowchart LR
 
 ![Projects](https://img.shields.io/badge/Projects-26-a855f7?style=for-the-badge)
 ![Live](https://img.shields.io/badge/Live_Demos-10-00C2FF?style=for-the-badge)
+![Repos](https://img.shields.io/badge/GitHub_Repos-64-6e5494?style=for-the-badge)
 ![Domains](https://img.shields.io/badge/Domains-AI_%7C_Full--Stack_%7C_Automation-22c55e?style=for-the-badge)
 
 <sub>🌐 Every project links to a public repository with screenshots and documentation. Source code is private for most projects and available on request.</sub>
@@ -836,6 +858,47 @@ Project gallery, publications section, certifications and a contact form, deploy
 
 ---
 
+## 🏆 Trophy Cabinet
+
+<div align="center">
+
+*A quick scoreboard of the milestones I'm proudest of.*
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="16%">🥇<br/><b>HackAMatch 1.0</b><br/><sub>Winner · CityPulse</sub></td>
+<td align="center" width="16%">🎓<br/><b>Batch Topper</b><br/><sub>9.36 SGPA · M.Sc. IT</sub></td>
+<td align="center" width="16%">💯<br/><b>150 / 150</b><br/><sub>PG Final Research Project</sub></td>
+<td align="center" width="16%">📖<br/><b>3 Papers</b><br/><sub>Published research</sub></td>
+<td align="center" width="16%">🌟<br/><b>Gold Milestone</b><br/><sub>JP Morgan × Anudip</sub></td>
+<td align="center" width="16%">💼<br/><b>13.6K+</b><br/><sub>LinkedIn community</sub></td>
+</tr>
+<tr>
+<td align="center">🧩<br/><b>26 Badges</b><br/><sub>LeetCode</sub></td>
+<td align="center">🔥<br/><b>200-Day Streak</b><br/><sub>LeetCode</sub></td>
+<td align="center">📅<br/><b>500+ Days</b><br/><sub>LeetCode active</sub></td>
+<td align="center">📦<br/><b>64 Repos</b><br/><sub>On GitHub</sub></td>
+<td align="center">🟩<br/><b>450+ Commits</b><br/><sub>And counting</sub></td>
+<td align="center">🎖️<br/><b>3 Achievements</b><br/><sub>Pull Shark · YOLO · Quickdraw</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RatneshPathak&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=7&margin-w=12&margin-h=12" alt="GitHub Profile Trophies" width="100%"/>
+
+<img src="https://github-trophies.vercel.app/?username=RatneshPathak&theme=darkhub&no-frame=true&row=3&column=7" alt="More GitHub Trophies" width="100%"/>
+
+<sub>🆕 Milestone trophies — Followers · Repositories · Commits · Stars · Pull Requests · Issues · Experience</sub>
+
+<img src="https://github-profile-trophy.vercel.app/?username=RatneshPathak&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12&title=Followers,Repositories,Commits,Stars,PullRequest,Issues,Experience" alt="Milestone trophies" width="100%"/>
+
+</div>
+
+---
+
 ## 🧩 Problem Solving
 
 <div align="center">
@@ -850,7 +913,7 @@ Project gallery, publications section, certifications and a contact form, deploy
 <td align="center">🟢<br/><b>189</b><br/><sub>Easy</sub></td>
 <td align="center">🟡<br/><b>334</b><br/><sub>Medium</sub></td>
 <td align="center">🔴<br/><b>130</b><br/><sub>Hard</sub></td>
-<td align="center">🏅<br/><b>25</b><br/><sub>Badges</sub></td>
+<td align="center">🏅<br/><b>26</b><br/><sub>Badges</sub></td>
 <td align="center">📅<br/><b>500+</b><br/><sub>Total Active Days</sub></td>
 <td align="center">🔥<br/><b>200</b><br/><sub>Current Streak (days)</sub></td>
 </tr>
@@ -878,7 +941,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 ## 🌍 Beyond the Code
 
-**300+ technology events** attended across Mumbai — talks, workshops, hackathons, and community meetups. I try to stay close to the ecosystem, not just the screen.
+**300+ technology events** attended across Mumbai — talks, workshops, hackathons, and community meetups — and a **13,600+ strong LinkedIn community**. I try to stay close to the ecosystem, not just the screen.
 
 ---
 
@@ -886,7 +949,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RatneshPathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RatneshPathak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&rank_icon=github" height="170" alt="GitHub stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RatneshPathak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" alt="Top languages"/>
 
 <br/>
@@ -905,13 +968,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 <img src="https://img.shields.io/badge/⚡_Quickdraw-Closed_within_5_min-2ea043?style=for-the-badge"/>
 </a>
 
-<sub>🟩 <b>450+ commits</b> · 🟩 <b>390+ contributions</b> in the last year · 📦 <b>63</b> repositories · ⭐ <b>38</b> starred</sub>
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=RatneshPathak&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=7&margin-w=12&margin-h=12" alt="GitHub Profile Trophies" width="100%"/>
-
-<img src="https://github-trophies.vercel.app/?username=RatneshPathak&theme=darkhub&no-frame=true&row=3&column=7" alt="More GitHub Trophies" width="100%"/>
+<sub>🟩 <b>450+ commits</b> · 🟩 <b>390+ contributions</b> in the last year · 📦 <b>64</b> repositories · ⭐ <b>39</b> starred · 👀 <b>475+</b> profile views</sub>
 
 ### 📈 Profile Summary
 
@@ -936,8 +993,8 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13.6K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-26_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
