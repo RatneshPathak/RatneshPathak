@@ -10,7 +10,7 @@
 <br/>
 
 <a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-14K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-26_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-27_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
@@ -63,7 +63,7 @@
 <td align="center" width="14%">💼<br/><b>14,000+</b><br/><sub>LinkedIn Followers</sub></td>
 <td align="center" width="14%">📚<br/><b>110+</b><br/><sub>Certifications</sub></td>
 <td align="center" width="14%">🏅<br/><b>150/150</b><br/><sub>PG Final Project</sub></td>
-<td align="center" width="14%">🧩<br/><b>26</b><br/><sub>LeetCode Badges</sub></td>
+<td align="center" width="14%">🧩<br/><b>27</b><br/><sub>LeetCode Badges</sub></td>
 <td align="center" width="14%">🥇<br/><b>Winner</b><br/><sub>HackAMatch 1.0 · 2× Finalist</sub></td>
 </tr>
 <tr>
