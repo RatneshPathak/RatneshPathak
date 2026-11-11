@@ -4,12 +4,12 @@
 <img src="ai-banner.svg" alt="Ratnesh Pathak — animated AI neural network banner" width="100%"/>
 
 <a href="https://github.com/RatneshPathak">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=720&height=50&lines=Hi%2C+I'm+Ratnesh+Pathak+%F0%9F%91%8B;AI%2FML+%E2%80%A2+Data+Analytics+%E2%80%A2+Full-Stack;M.Sc.+IT+Topper+%E2%80%A2+9.36+SGPA;HackAMatch+1.0+Winner+%F0%9F%A5%87;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Improve" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A855F7&center=true&vCenter=true&width=760&height=50&lines=Hi%2C+I'm+Ratnesh+Pathak+%F0%9F%91%8B;AI%2FML+%E2%80%A2+Data+Analytics+%E2%80%A2+Full-Stack;Director+%26+Co-Founder+%40+Codolog+%F0%9F%9A%80;M.Sc.+IT+Topper+%E2%80%A2+9.36+SGPA;HackAMatch+1.0+Winner+%F0%9F%A5%87;Learn+%E2%86%92+Build+%E2%86%92+Share+%E2%86%92+Improve" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13.6K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-14K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-26_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
@@ -18,7 +18,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=RatneshPathak&label=Profile+Views&color=a855f7&style=for-the-badge" />
 <img src="https://img.shields.io/github/followers/RatneshPathak?logo=github&style=for-the-badge&color=00C2FF" />
-<img src="https://img.shields.io/badge/Open_to-AI%2FML_Roles-22c55e?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Co--Founder-Codolog-0ea5e9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open_to-AI%2FML_Roles_%26_Collabs-22c55e?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Based_in-Mumbai-ff6b6b?style=for-the-badge" />
 
 <br/>
@@ -36,6 +37,7 @@
 <sub>
 <a href="#-highlight-reel">Highlights</a> ·
 <a href="#-about-me">About</a> ·
+<a href="#-founder--leadership">Founder</a> ·
 <a href="#%EF%B8%8F-tech-stack">Stack</a> ·
 <a href="#-featured-projects">Projects</a> ·
 <a href="#-achievements">Achievements</a> ·
@@ -58,7 +60,7 @@
 <tr>
 <td align="center" width="14%">🎓<br/><b>9.36</b><br/><sub>SGPA</sub></td>
 <td align="center" width="14%">📖<br/><b>3</b><br/><sub>Research Papers</sub></td>
-<td align="center" width="14%">💼<br/><b>13,600+</b><br/><sub>LinkedIn Followers</sub></td>
+<td align="center" width="14%">💼<br/><b>14,000+</b><br/><sub>LinkedIn Followers</sub></td>
 <td align="center" width="14%">📚<br/><b>110+</b><br/><sub>Certifications</sub></td>
 <td align="center" width="14%">🏅<br/><b>150/150</b><br/><sub>PG Final Project</sub></td>
 <td align="center" width="14%">🧩<br/><b>26</b><br/><sub>LeetCode Badges</sub></td>
@@ -83,7 +85,7 @@
 <td align="center">👀<br/><b>475+</b><br/><sub>Profile Views</sub></td>
 </tr>
 <tr>
-<td align="center" colspan="7">🌐 <b>33+</b> <sub>Public Showcase Repos</sub> &nbsp;·&nbsp; 🚀 <b>26</b> <sub>Projects Built</sub> &nbsp;·&nbsp; 🧠 <b>AI · Data · Full-Stack · Automation</b></td>
+<td align="center" colspan="7">🏢 <b>Co-Founder</b> <sub>Codolog</sub> &nbsp;·&nbsp; 🌐 <b>33+</b> <sub>Public Showcase Repos</sub> &nbsp;·&nbsp; 🚀 <b>26</b> <sub>Projects Built</sub> &nbsp;·&nbsp; 🧠 <b>AI · Data · Full-Stack · Automation</b></td>
 </tr>
 </table>
 
@@ -109,12 +111,13 @@
 │  education   : M.Sc. Information Technology          │
 │                (9.36 SGPA · Batch Topper)            │
 │  role        : AI/ML Engineer @ Alvin IT Solutions   │
+│  founder     : Director & Co-Founder @ Codolog       │
 │  location    : Mumbai, India                         │
 │  focus       : AI • Machine Learning • Data Analytics│
 │  building    : Practical, verifiable AI/software     │
 │  practicing  : Python • SQL • Power BI • CV          │
 │  exploring   : AI Agents • APIs • NLP                │
-│  community   : 13.6K+ LinkedIn • 300+ tech events    │
+│  community   : 14K+ LinkedIn • 300+ tech events      │
 │  mindset     : Learn → Build → Share → Improve       │
 └──────────────────────────────────────────────────────┘
 ```
@@ -128,7 +131,7 @@
 </tr>
 </table>
 
-I'm an **M.Sc. IT graduate (9.36 SGPA, batch topper)** working in **AI/ML at Alvin IT Solutions** in Mumbai. My work sits at the intersection of **applied machine learning, data analytics, NLP, and full-stack development** — I like taking a problem from research and idea to a working prototype.
+I'm an **M.Sc. IT graduate (9.36 SGPA, batch topper)** working in **AI/ML at Alvin IT Solutions** in Mumbai, and **Director & Co-Founder (part-time) at [Codolog](https://www.linkedin.com/in/ratnesh-pathak-087466279/)**, where I oversee team workflow, project execution and day-to-day operations while driving our AI enhancements. My work sits at the intersection of **applied machine learning, data analytics, NLP, and full-stack development**. I like taking a problem from research and idea to a working prototype.
 
 I've **published 3 research papers** (including financial sentiment analysis with NLP), scored **150/150** on my final research project exam, **won HackAMatch 1.0** with CityPulse, and been permanently featured on my UG and PG college's official websites, banners, and magazines. Alongside that, I stay active on LeetCode, take on freelance/client work, and stay close to Mumbai's tech ecosystem through events, hackathons, and community involvement.
 
@@ -149,9 +152,41 @@ flowchart LR
 | | |
 |---|---|
 | 🔭 **Working on** | AI/ML projects at Alvin IT Solutions |
+| 🏢 **Leading** | Team workflow, delivery & AI enhancements at **Codolog** (Director & Co-Founder, part-time) |
 | 🌱 **Exploring** | AI Agents · APIs · NLP · Urban & environmental data |
 | 🧩 **Practicing** | LeetCode · Python · SQL · Power BI · Computer Vision |
 | 🤝 **Looking for** | AI/ML opportunities, collaborations & interesting problems |
+
+---
+
+## 🏢 Founder & Leadership
+
+<div align="center">
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+#### 🚀 Codolog
+<sub>**Director & Co-Founder** · Part-time · Jun 2026 – Present · Mumbai (Hybrid)</sub>
+
+I oversee Codolog's team workflow, project execution and day-to-day operations. My focus is building a strong, collaborative team culture while driving our AI enhancements, so we can deliver smarter, more scalable solutions for clients.
+
+- 👥 Team leadership and workflow ownership
+- ⚙️ Project execution and daily operations
+- 🧠 AI enhancements across client solutions
+- 🌐 Web development delivery
+
+![Team Leadership](https://img.shields.io/badge/Team_Leadership-0ea5e9?style=flat-square)
+![Web Development](https://img.shields.io/badge/Web_Development-a855f7?style=flat-square)
+![AI](https://img.shields.io/badge/AI_Enhancements-22c55e?style=flat-square)
+![Operations](https://img.shields.io/badge/Operations-f59e0b?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -843,6 +878,7 @@ Project gallery, publications section, certifications and a contact form, deploy
 <td width="33%" valign="top">
 
 ### 💼 Professional
+- **Director & Co-Founder**, Codolog (Part-time · Jun 2026 – Present)
 - Best Student of Batch — **JP Morgan × Anudip Foundation** (Gold Milestone)
 - **110+** certifications
 - **6** internships
@@ -873,7 +909,7 @@ Project gallery, publications section, certifications and a contact form, deploy
 <td align="center" width="16%">💯<br/><b>150 / 150</b><br/><sub>PG Final Research Project</sub></td>
 <td align="center" width="16%">📖<br/><b>3 Papers</b><br/><sub>Published research</sub></td>
 <td align="center" width="16%">🌟<br/><b>Gold Milestone</b><br/><sub>JP Morgan × Anudip</sub></td>
-<td align="center" width="16%">💼<br/><b>13.6K+</b><br/><sub>LinkedIn community</sub></td>
+<td align="center" width="16%">💼<br/><b>14K+</b><br/><sub>LinkedIn community</sub></td>
 </tr>
 <tr>
 <td align="center">🧩<br/><b>26 Badges</b><br/><sub>LeetCode</sub></td>
@@ -941,7 +977,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 ## 🌍 Beyond the Code
 
-**300+ technology events** attended across Mumbai — talks, workshops, hackathons, and community meetups — and a **13,600+ strong LinkedIn community**. I try to stay close to the ecosystem, not just the screen.
+**300+ technology events** attended across Mumbai — talks, workshops, hackathons, and community meetups — and a **14,000+ strong LinkedIn community**. I try to stay close to the ecosystem, not just the screen.
 
 ---
 
@@ -993,7 +1029,7 @@ I don't only build academic projects — I've helped juniors, college colleagues
 
 <div align="center">
 
-<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-13.6K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ratnesh-pathak-087466279"><img src="https://img.shields.io/badge/LinkedIn-14K%2B_Followers-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://leetcode.com/u/YxCXLC7VPk/"><img src="https://img.shields.io/badge/LeetCode-26_Badges-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="mailto:pathakratnesh03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/ratnesh_0318"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
